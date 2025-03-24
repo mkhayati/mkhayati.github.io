@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Mourad Khayati"
 title_separator          : "-"
 name                     : &name "Mourad Khayati"
 description              : &description "personal description"
