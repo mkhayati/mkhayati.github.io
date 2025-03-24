@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Mourad Khayati is a Senior Researcher and a Lecturer with the eXascale Infolab group and the Advanced Software Engineering group, respectively, at the Department of Computer Science of the University of Fribourg, Switzerland. 
+He obtained his PhD from the <a href="http://www.ifi.uzh.ch/dbtg/">University of Zurich</a>, Switzerland, under the supervision of <a href="http://www.ifi.uzh.ch/dbtg/Staff/Boehlen.html">Prof. Michael B&ouml;hlen</a>. His research interests include Time Series analytics and data quality with a special focus on temporal data repair/cleaning. He is the recipient of the VLDB 2020 Best Experiments and Analysis Paper Award.
+
 
 A data-driven personal website
 ======
