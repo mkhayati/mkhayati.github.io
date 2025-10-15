@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Library release
+date: 2025-07-13 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<a href="https://imputegap.readthedocs.io">ImputeGAP</a> library v1.1.1 is officially out :gem: 

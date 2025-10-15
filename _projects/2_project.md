@@ -1,81 +1,22 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: ProvDS
+description: Uncertain Provenance Management over Incomplete Linked Data Streams
+img: assets/img/snf.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Summary
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Provenance describes how results are produced starting from data sources, curation, recovery, intermediate processing, to the final results. Provenance has been applied to solve many problems and in particular to understand how errors are propagated in large-scale environments such as the Internet of Things. In fact, in such environments operations on data are often performed by multiple uncoordinated parties, each potentially introducing or propagating errors. These errors cause uncertainty of the overall data analytics process that is further amplified when many data sources are combined and errors get propagated across multiple parties. The ability to properly identify how such errors influence the results is crucial to assess the quality of the results. This problem becomes even more challenging in the case of Linked Data Streams, where data is dynamic and often incomplete. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+In the ProvDS project, we investigate methods to compute provenance over Linked Data Streams that are incomplete. More specifically, we propose provenance and recovery-aware data management techniques that take as input incomplete streams, and simultaneously recover the missing data and compute the provenance over the reconstructed streams. Unlike traditional provenance management techniques, which are applied on complete and static data, our research agenda focuses on dynamic and incomplete heterogeneous data. At a technical level, our main objectives are to provide i) means to deliver a dynamic provenance trace of the results to the user, ii) methods to discover the probable provenance of recovered pieces of data, and iii) provenance- aware compression and storage techniques. The accuracy and the efficiency of the developed techniques will be evaluated and tested using a real-world.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Grant Details
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The ProvDS project is 870K CHF (University of Fribourg’s share: 413’000 CHF) project four-year project under the funding scheme Weave/Lead Agency (DACH programme). The project is led by Dr. Mourad Khayati and involves University of Fribourg and TU Berlin. 
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This project has received funding from the SNF and DFG foundations under grant agreement No 169840.

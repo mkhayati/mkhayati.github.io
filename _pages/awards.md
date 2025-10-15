@@ -1,29 +1,27 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: An overview of the courses I was responsible of or contributed to as a co-instructor.
+permalink: /awards/
+title: Awards 
+description: For what's worth, here is a list of awards and honours I received.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
-<h3 class="mt-4">University of Fribourg</h3>
-
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"><a href="https://mkhayati.github.io/courses/sma">Social Media Analytics</a> (Main Instructor)</h5>
+        <h5 class="font-weight-bold"> Outstanding PC Award</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            53609
+            KDD
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2017-present</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">KDD 2025</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Master Course for the Joint Master of Science in Computer Science (5 ECTS)</li>
+      <li class="list-group-item"> Top 10% reviewers.</li>
     </ul>
   </div>
 </div>
@@ -33,17 +31,37 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"><a href="https://mkhayati.github.io/courses/ds">Seminar Data Science</a> (Main Instructor)</h5>
+        <h5 class="font-weight-bold">TSM-Bench Inetgration</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            63587
+            Kove
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2015-present</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Kove:SDM</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Master Seminar for the Joint Master of Science in Computer Science (5 ECTS)</li>
+      <li class="list-group-item"> PVLDB 2023 TSM-Bench adopted by the Kove:SDM production environment. [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF</a> |  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">code</a>]</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Reproducibility Highlights</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
+            VLDB
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">VLDB 2021</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item"> Reproducibility Highlights Mention. [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf">PDF</a> | <a href="https://github.com/eXascaleInfolab/orbits">code</a>]</li>
     </ul>
   </div>
 </div>
@@ -52,36 +70,17 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Advanced Software Engineering (Co-instructor)</h5>
+        <h5 class="font-weight-bold">Best E&A Paper Award</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            13000
+            VLDB
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2021-2025</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">VLDB 2020</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Master Course for the Joint Master of Science in Computer Science (5 ECTS)</li>
-    </ul>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Software Engineering (Co-instructor)</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            UE-SIN.04023
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2021-2025</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Bachelor Course in Computer Science (6 ECTS)</li>
+      <li class="list-group-item"> Best Experiments and Analysis Paper Award (formally reproducibility award) [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf">PDF</a> | <a href="https://github.com/eXascaleInfolab/bench-vldb20">code</a>].</li>
     </ul>
   </div>
 </div>
