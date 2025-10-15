@@ -17,6 +17,6 @@ In the ProvDS project, we investigate methods to compute provenance over Linked 
 
 ## Grant Details
 
-The ProvDS project is 870K CHF (University of Fribourg’s share: 413’000 CHF) project four-year project under the funding scheme Weave/Lead Agency (DACH programme). The project is led by Dr. Mourad Khayati and involves University of Fribourg and TU Berlin. 
+ProvDS is a 870K CHF (University of Fribourg’s share: 413’000 CHF) four-year project under the funding scheme Weave/Lead Agency (DACH programme). The project was led by Dr. Mourad Khayati and involves University of Fribourg (Switzerland) and TU Berlin (Germany). 
 
 This project has received funding from the SNF and DFG foundations under grant agreement No 169840.

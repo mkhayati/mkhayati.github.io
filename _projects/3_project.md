@@ -15,4 +15,4 @@ Another major challenge in hydrology is scalability. Managing large volumes of d
 
 
 ## Grant Details
-Mourad Khayati is the main investigator and sole recipient. The grant value is 50’000 CHF for the duration of one year.
+REVIVAL is a 50’000 CHF one-year project funded by the Hasler Foundation. The project was led by Mourad Khayati as the main investigator and sole recipient. 

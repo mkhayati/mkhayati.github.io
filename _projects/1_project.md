@@ -19,7 +19,7 @@ The output of FashionBrain project will benefit EU’s retailers as they can off
 
 ## Grant Details
 
-The FashionBrain project is a €2.8M (University of Fribourg’s share: 701’800 CHF) three-year project funded by the European Commission’s Horizon 2020 programme. The project is being led by Dr Alessandro Checco as coordinator and Dr. Mourad Khayati as technical lead, and involves several partners from across Europe, including the Beuth University of Applied Sciences, Université de Fribourg, Zalando SE, Fashwell AG and MonetDB Solutions B.V.
+FashionBrain is a €2.8M (University of Fribourg’s share: 701’800 CHF) three-year project funded by the European Commission’s Horizon 2020 programme. The project is being led by Dr Alessandro Checco as coordinator and Dr. Mourad Khayati as technical lead, and involves several partners from across Europe, including the Beuth University of Applied Sciences, Université de Fribourg, Zalando SE, Fashwell AG and MonetDB Solutions B.V.
 
 The FashionBrain project aims at combining data from different sources to support different fashion industry players by predicting upcoming fashion trends from social media as well as by providing personalised recommendations and advanced fashion item search to customers.
 
