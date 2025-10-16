@@ -95,9 +95,9 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> KDD 2025: Research and ADS tracks</li>
+      <li class="list-group-item"> ACM Conference on Knowledge Discovery and Data Mining (KDD) 2025: Research and ADS tracks</li>
       <li class="list-group-item"> International Conference on Very Large Databases (VLDB) 2021</li>
-      <li class="list-group-item"> CIKM 2021</li>
+      <li class="list-group-item"> ACM Conference on Information and Knowledge Management (CIKM) 2021</li>
       <li class="list-group-item"> International Conference on Web Engineering (ICWE) 2016</li>
     </ul>
   </div>
@@ -118,8 +118,8 @@ nav_order: 3
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> International Conference on Extending Database Technology (EDBT) 2024, 2023</li>
-      <li class="list-group-item"> WISE 2024</li>
-      <li class="list-group-item"> CIKM 2020</li>
+      <li class="list-group-item"> International Conference on Web Information Systems Engineering (WISE) 2024</li>
+      <li class="list-group-item"> ACM Conference on Information and Knowledge Management (CIKM) 2020</li>
     </ul>
   </div>
 </div>
@@ -138,7 +138,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> MulTiSA workshop at IEEE International Conference on Data Engineering (ICDE) 2025</li>
+      <li class="list-group-item"> MulTiSA Workshop at IEEE International Conference on Data Engineering (ICDE) 2025</li>
     </ul>
   </div>
 </div>
@@ -156,7 +156,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> ICWE 2016</li>
+      <li class="list-group-item"> International Conference on Web Engineering (ICWE) 2016</li>
     </ul>
   </div>
 </div>
@@ -174,10 +174,10 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> CIKM 2021 </li>
-      <li class="list-group-item"> WWW 2019, WWW 2016</li>
-      <li class="list-group-item"> ICDE 2018, ICDE 2013</li>
-      <li class="list-group-item"> EDBT 2016</li>
+      <li class="list-group-item"> ACM Conference on Information and Knowledge Management (CIKM) 2021 </li>
+      <li class="list-group-item"> ACM Web Conference (WWW) 2019, 2016</li>
+      <li class="list-group-item"> IEEE International Conference on Data Engineering (ICDE) 2018, 2013</li>
+      <li class="list-group-item"> International Conference on Extending Database Technology (EDBT) 2016</li>
     </ul>
   </div>
 </div>
