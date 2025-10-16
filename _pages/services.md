@@ -76,7 +76,7 @@ nav_order: 3
       <li class="list-group-item"> IEEE Transactions on Artificial Intelligence (1)</li>
       <li class="list-group-item"> PlOS One (1)</li>
       <li class="list-group-item">Information and Software Technology (1)</li>
-      *: () refers to the number of reviewed papers
+      <li class="list-group-item">*(): refers to the number of reviewed papers</li>
     </ul>
   </div>
 </div>
