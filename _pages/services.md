@@ -65,8 +65,9 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> IEEE Transactions on Knowledge and Data Engineering (22)</li>
-      <li class="list-group-item"> The VLDB Journal (4)</li>
+      <li class="list-group-item"> IEEE Transactions on Knowledge and Data Engineering (22)\*</li>
+      \*: # of reviewed papers
+      <li class="list-group-item"> The VLDB Journal (5)</li>
       <li class="list-group-item"> Cluster Computing (5)</li>
       <li class="list-group-item"> IEEE Signal Processing Letters (3)</li>
       <li class="list-group-item"> Transactions on Parallel and Distributed Systems (2)</li>
