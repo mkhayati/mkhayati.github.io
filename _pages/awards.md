@@ -41,7 +41,7 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Kove:SDM</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> PVLDB 2023 TSM-Bench adopted by the Kove:SDM production environment. [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF</a> |  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">code</a>]</li>
+      <li class="list-group-item"> Our TSM-Bench system, which appeared at PVLDB 2023, has been adopted by the Kove:SDM production environment to benchmark Time Series Database Systems (TSDBs). [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF</a> |  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">code</a>]</li>
     </ul>
   </div>
 </div>
