@@ -419,7 +419,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-a-panelist-for-the-multisa-event-at-icde-2025",
+            },},{id: "news-check-out-our-recent-interview-with-roberto-zicari-discussing-benchmarking-time-series-database-systems",
+          title: 'Check out our recent interview with Roberto Zicari discussing benchmarking Time Series Database...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-a-panelist-for-the-multisa-event-at-icde-2025",
           title: 'I will be a panelist for the MulTiSA event at ICDE 2025.',
           description: "",
           section: "News",},{id: "news-oustanding-pc-award-from-kdd-2025",
