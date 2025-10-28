@@ -13,9 +13,12 @@ nav_order: 6
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
+     <div class="col-sm-10">
+        <h5 class="font-weight-bold">Master/Bachelor</h5>
+      </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            MSC/BSC
+          Open
         </span>
       </div>
     </div>
