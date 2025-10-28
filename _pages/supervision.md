@@ -49,19 +49,20 @@ nav_order: 6
     <ol class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"><a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>: Scalable Data Cleaning Systems for Extreme Large Time Series.</li>
     </ol>
+  </div>
+  <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">MSc Thesis</h5>
+        <h5 class="font-weight-bold">PhD Thesis</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            MSC
+            PhD
         </span>
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
-     <li class="list-group-item"> Time Series Imputation using Large Language Models (Maurice Amon)</li>
-     <li class="list-group-item"> Extensive Comparison of Data Transformation Techniques for Graph Time Series Imputation (Flavien Buron).
+      <li class="list-group-item"><a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>: Scalable Data Cleaning Systems for Extreme Large Time Series.</li>
     </ol>
   </div>
 </div>
