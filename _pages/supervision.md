@@ -8,13 +8,13 @@ nav_order: 6
 ---
 
 
-<h3 class="mt-4">Available Theses</h3>
+<h3 class="mt-4">Available</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Master/Bachelor</h5>
+        <h5 class="font-weight-bold">MSc/BSc Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -32,13 +32,13 @@ nav_order: 6
 </div>
 
 
-<h3 class="mt-4">Ongoing Theses</h3>
+<h3 class="mt-4">Ongoing</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Doctoral</h5>
+        <h5 class="font-weight-bold">Doctoral Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -47,13 +47,13 @@ nav_order: 6
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Scalable Data Cleaning Systems for Extreme Large Time Series (<a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>)</li>
+      <li class="list-group-item">Scalable Data Cleaning Systems for Extreme Large Time Series (<a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
     </ol>
   </div>
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Master</h5>
+        <h5 class="font-weight-bold">Master Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -70,13 +70,13 @@ nav_order: 6
 
 
 
-<h3 class="mt-4">Completed Theses</h3>
+<h3 class="mt-4">Completed</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Doctoral</h5>
+        <h5 class="font-weight-bold">Doctoral Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -94,7 +94,7 @@ nav_order: 6
  <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Master</h5>
+        <h5 class="font-weight-bold">Master Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -124,7 +124,7 @@ nav_order: 6
       <li class="list-group-item"> [2017] Real-Time Centroid Decomposition of Streams of Time Series (Oliver Stapleton)</li>
       <li class="list-group-item"> [2017] Modeling the Evolution of Fashion Trends using Matrix Factorization Techniques (Leutrim Kaleci)</li>
       <li class="list-group-item"> [2016] Implementation of Centroid Decomposition Algorithm on Big Data Platforms - a Comparison Between Spark and Flink (Qian Liu)</li>
-      <li class="list-group-item"> [2015] Online Anomaly Detection over Big Data Streams (Laura Rettig (MSc)). JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences.</li>
+      <li class="list-group-item"> [2015] Online Anomaly Detection over Big Data Streams (Laura Rettig). JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences.</li>
       <li class="list-group-item">[2014] Decomposition of Time Series Subsequences (Jonathan Nagel)</li>
       <li class="list-group-item">[2023] Evaluating the Optimality of Centroid Decomposition (Eszter Börzsönyi)</li>
       <li class="list-group-item">[2022] Visualization and Analysis of Hydrological Data (Michał Kołtonik)</li>
@@ -133,7 +133,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Bachelor</h5>
+        <h5 class="font-weight-bold">Bachelor Theses</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
