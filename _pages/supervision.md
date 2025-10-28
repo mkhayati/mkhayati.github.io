@@ -66,7 +66,6 @@ nav_order: 6
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"> Time Series Imputation using Large Language Models (Maurice Amon)</li>
-      <li class="list-group-item"> Synthetic Data Generation of Medical Audio Time Series (Matej Kutirov)</li>
       <li class="list-group-item"> Extensive Comparison of Data Transformation Techniques for Graph Time Series Imputation (Flavien Buron).</li>
     </ol>
   </div>
@@ -110,6 +109,7 @@ nav_order: 6
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item"> [2025] Automated Model Selection for Time Series Data Generation (Matej Kutirov).</li>
       <li class="list-group-item"> [2025] MUSED: Multimodal Unsupervised Streaming Event Detection (Andy Keller).</li>
       <li class="list-group-item"> [2025] Prediction of Environmental Hazards using Data Fusion (Dana Rim Ghousson).</li>
       <li class="list-group-item"> [2024] ImputeGAP: A Python library for Time Series Imputation Techniques (Quentin Nater).</li>
