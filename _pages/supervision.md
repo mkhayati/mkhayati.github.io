@@ -14,7 +14,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">MSc/BSc</h5>
+        <h5 class="font-weight-bold">Master/Bachelor</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -38,7 +38,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">PhD Thesis</h5>
+        <h5 class="font-weight-bold">Doctoral</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -47,40 +47,22 @@ nav_order: 6
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>: Scalable Data Cleaning Systems for Extreme Large Time Series.</li>
+      <li class="list-group-item">Scalable Data Cleaning Systems for Extreme Large Time Series (<a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>).</li>
     </ol>
   </div>
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">PhD Thesis</h5>
+        <h5 class="font-weight-bold">Master</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            PhD
+            MSC
         </span>
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="https://exascale.info/members/quentin-nater/">Quentin Nater</a>: Scalable Data Cleaning Systems for Extreme Large Time Series.</li>
-    </ol>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Master Thesis</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            MSc
-        </span>
-      </div>
-    </div>
-    <ol class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> Time Series Imputation using Large Language Models (Maurice Amon)</li>
+     <li class="list-group-item"> Time Series Imputation using Large Language Models (Maurice Amon)</li>
       <li class="list-group-item"> Extensive Comparison of Data Transformation Techniques for Graph Time Series Imputation (Flavien Buron).</li>
     </ol>
   </div>
@@ -94,7 +76,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">PhD Thesis</h5>
+        <h5 class="font-weight-bold">Doctoral</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -103,23 +85,20 @@ nav_order: 6
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">[2025] <a href="https://exascale.info/members/abdelouahab-khelifati/">Abdelouahab Khelifati</a>: A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-supervised with Philippe Cudré-Mauroux.</li>
-      <li class="list-group-item">[2024] <a href="https://exascale.info/members/zakhar-tymchenko/">Zakhar Tymchenko</a>: Unifying Upstream and Downstream Time Series Data Cleaning . Co-supervised with Philippe Cudré-Mauroux.</li>
-      <li class="list-group-item">[2022] <a href="https://inesarous.github.io"> Ines Arous </a>: Human-AI Collaborative Approaches for Open-Ended Data Curation. Co-supervised with Philippe Cudré-Mauroux and Jie Yang. Dimitris N. Chorafas Award for Best Thesis in Computer Science.</li>
-      <li class="list-group-item">[2019] <a href="https://exascale.info/members/artem-lutov">Artem Lutov </a>: Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation . Co-supervised with Philippe Cudré-Mauroux.</li>
+      <li class="list-group-item">[2025] A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing (<a href="https://exascale.info/members/abdelouahab-khelifati/">Abdelouahab Khelifati</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
+      <li class="list-group-item">[2024] Holistic Evaluation of Time Series Data Quality (<a href="https://exascale.info/members/zakhar-tymchenko/">Zakhar Tymchenko</a>) . Co-supervised with Philippe Cudré-Mauroux.</li>
+      <li class="list-group-item">[2022] Human-AI Collaborative Approaches for Open-Ended Data Curation (<a href="https://inesarous.github.io"> Ines Arous </a>). Co-supervised with Philippe Cudré-Mauroux and Jie Yang. Dimitris N. Chorafas Award for Best Thesis in Computer Science.</li>
+      <li class="list-group-item">[2019] Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation (<a href="https://exascale.info/members/artem-lutov">Artem Lutov </a>) . Co-supervised with Philippe Cudré-Mauroux.</li>
     </ol>
   </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
+ <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Master Thesis</h5>
+        <h5 class="font-weight-bold">Master</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
-            MSc
+            MSC
         </span>
       </div>
     </div>
@@ -152,13 +131,10 @@ nav_order: 6
       <li class="list-group-item">[2022] Visualization and Analysis of Hydrological Data (Michał Kołtonik).</li>
     </ol>
   </div>
-</div>
-
-<div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Bachelor Thesis</h5>
+        <h5 class="font-weight-bold">Bachelor</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -177,4 +153,7 @@ nav_order: 6
     </ol>
   </div>
 </div>
+
+
+
 
