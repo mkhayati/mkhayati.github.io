@@ -21,7 +21,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">ACM Conference on Knowledge Discovery and Data Mining (KDD) 2026, 2025</li>
+      <li class="list-group-item">ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2026, 2025</li>
       <li class="list-group-item">ACM Conference on Information and Knowledge Management (CIKM) 2020</li>
     </ul>
   </div>
@@ -40,7 +40,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> KDD 2026, 2025</li>
+      <li class="list-group-item"> SIGKDD 2026, 2025</li>
       <li class="list-group-item"> ACM Web Conference (WWW) 2026</li>
       <li class="list-group-item"> IEEE International Conference on Big Data (BigData) 2025</li>
       <li class="list-group-item"> International Conference on Big Data Analytics and Knowledge Discovery (DAWAK) 2025</li>
@@ -95,7 +95,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> ACM Conference on Knowledge Discovery and Data Mining (KDD) 2025: Research and ADS tracks</li>
+      <li class="list-group-item"> ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2025: Research and ADS tracks</li>
       <li class="list-group-item"> International Conference on Very Large Databases (VLDB) 2021</li>
       <li class="list-group-item"> ACM Conference on Information and Knowledge Management (CIKM) 2021</li>
       <li class="list-group-item"> International Conference on Web Engineering (ICWE) 2016</li>

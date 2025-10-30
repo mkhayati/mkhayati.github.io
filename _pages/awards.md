@@ -26,12 +26,12 @@ nav_order: 4
   </div>
 </div>
 
-
+<!-- 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">TSM-Bench Inetgration</h5>
+        <h5 class="font-weight-bold">TSM-Bench Integration</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
@@ -41,11 +41,11 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Kove:SDM</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"> Our TSM-Bench system, which appeared at PVLDB 2023, has been adopted by the Kove:SDM production environment to benchmark Time Series Database Systems (TSDBs). [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF</a> |  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">code</a>]</li>
+      <li class="list-group-item"> Our TSM-Bench system, which appeared at PVLDB 2023, has been adopted by the Kove:SDM production environment to benchmark Time Series Database Systems. [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF</a> |  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">code</a>]</li>
     </ul>
   </div>
 </div>
-
+-->
 
 <div class="card mt-3">
   <div class="p-3">
