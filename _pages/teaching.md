@@ -9,21 +9,25 @@ nav_order: 5
 
 <h3 class="mt-4">University of Fribourg</h3>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold"><a href="https://mkhayati.github.io/courses/sma">Social Media Analytics</a> (Main Instructor)</h5>
+        <h5 class="font-weight-bold">
+          <a href="https://mkhayati.github.io/courses/sma" style="color: #000000;">Social Media Analytics</a> (Main Instructor)
+        </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac">
+        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
             53609
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">2017-present</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Master Course for the Joint Master of Science in Computer Science (5 ECTS)</li>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">2017-present</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Master Course for the Joint Master of Science in Computer Science (5 ECTS)
+      </li>
     </ul>
   </div>
 </div>
