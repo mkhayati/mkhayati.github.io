@@ -7,7 +7,7 @@ first_name: Mourad
 middle_name:
 last_name: Khayati
 contact_note: >
-  You can reach me by email, and I should get back to you very soon!
+  The best way to contact me is by email, I will get back to you shortly!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
