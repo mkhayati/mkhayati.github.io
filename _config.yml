@@ -80,6 +80,15 @@ google_site_verification: # your google-site-verification ID (Google Search Cons
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
+# News
+# -----------------------------------------------------------------------------
+news:
+  enabled: true
+  limit: 10     # change this number to however many news items you want
+  scrollable: false
+
+  
+# -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
@@ -94,7 +103,7 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 7
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
