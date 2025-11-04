@@ -22,7 +22,9 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">KDD 2025</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Top 10% reviewers.</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Top 10% reviewers 
+        [<a href="https://kdd2025.kdd.org/research-track-program-committee/" style="color: #1a73e8;">link</a>]
+      </li>
     </ul>
   </div>
 </div>
@@ -69,9 +71,10 @@ nav_order: 4
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Reproducibility Highlights Mention. 
+        Reproducibility Highlights Mention 
         [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a> | 
-        <a href="https://github.com/eXascaleInfolab/orbits" style="color: #1a73e8;">code</a>]
+        <a href="https://github.com/eXascaleInfolab/orbits" style="color: #1a73e8;">code</a> | 
+        <a href="https://vldb.org/pvldb/reproducibility/" style="color: #1a73e8;">link</a>]
       </li>
     </ul>
   </div>
@@ -95,7 +98,8 @@ nav_order: 4
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Best Experiments and Analysis Paper Award (formally reproducibility award)
         [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf" style="color: #1a73e8;">PDF</a> | 
-        <a href="https://github.com/eXascaleInfolab/bench-vldb20" style="color: #1a73e8;">code</a>].
+        <a href="https://github.com/eXascaleInfolab/bench-vldb20" style="color: #1a73e8;">code</a> | 
+        <a href="https://vldb2020.org/vldb-2020-awards.html" style="color: #1a73e8;">link</a>].
       </li>
     </ul>
   </div>
