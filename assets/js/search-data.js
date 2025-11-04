@@ -419,8 +419,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-check-out-our-recent-interview-with-roberto-zicari-discussing-benchmarking-time-series-database-systems",
-          title: 'Check out our recent interview with Roberto Zicari discussing benchmarking Time Series Database...',
+            },},{id: "news-check-out-our-interview-with-roberto-v-zicari-the-founder-of-odbms-org-discussing-benchmarking-time-series-database-systems",
+          title: 'Check out our interview with Roberto V. Zicari, the founder of odbms.org, discussing...',
           description: "",
           section: "News",},{id: "news-i-will-be-a-panelist-for-the-multisa-event-at-icde-2025",
           title: 'I will be a panelist for the MulTiSA event at ICDE 2025.',
