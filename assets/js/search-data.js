@@ -419,7 +419,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-check-out-our-interview-with-roberto-v-zicari-the-founder-of-odbms-org-discussing-benchmarking-time-series-database-systems",
+            },},{id: "news-check-out-our-interview-with-roberto-v-zicari-the-founder-of-odbms-org-discussing-benchmarking-time-series-database-systems-link",
           title: 'Check out our interview with Roberto V. Zicari, the founder of odbms.org, discussing...',
           description: "",
           section: "News",},{id: "news-i-will-be-a-panelist-for-the-multisa-event-at-icde-2025",
@@ -428,8 +428,8 @@ ninja.data = [{
           section: "News",},{id: "news-oustanding-pc-award-from-kdd-2025",
           title: 'Oustanding PC Award from KDD 2025.',
           description: "",
-          section: "News",},{id: "news-imputegap-library-v1-1-1-is-officially-out-gem",
-          title: 'ImputeGAP library v1.1.1 is officially out :gem:',
+          section: "News",},{id: "news-imputegap-library-v1-1-1-is-officially-out-link-gem",
+          title: 'ImputeGAP library v1.1.1 is officially out (link) :gem:',
           description: "",
           section: "News",},{id: "news-invited-talk-at-the-university-of-concordia-in-canada",
           title: 'Invited talk at the University of Concordia in Canada.',
