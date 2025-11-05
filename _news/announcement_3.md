@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://imputegap.readthedocs.io">ImputeGAP</a> library v1.1.1 is officially out :gem: 
+ImputeGAP library v1.1.1 is officially out (<a href="https://imputegap.readthedocs.io">link</a>) :gem: 
