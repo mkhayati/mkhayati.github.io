@@ -22,7 +22,7 @@ nav_order: 6
     --link-color-dark: #66aaff;
   }
 
-  /* Base (light mode by default) */
+  /* Base (light mode) */
   body, .page__content {
     background-color: var(--bg-color-light) !important;
     color: var(--text-color-light) !important;
@@ -36,6 +36,10 @@ nav_order: 6
 
   .list-group-item {
     background-color: var(--list-bg-light);
+    color: var(--text-color-light);
+  }
+
+  ol {
     color: var(--text-color-light);
   }
 
@@ -53,7 +57,7 @@ nav_order: 6
     font-weight: 700;
   }
 
-  /* Dark mode (prefers-color-scheme or theme toggle) */
+  /* Dark mode */
   @media (prefers-color-scheme: dark) {
     body, .page__content {
       background-color: var(--bg-color-dark) !important;
@@ -63,10 +67,15 @@ nav_order: 6
     .card {
       background-color: var(--card-bg-dark);
       color: var(--text-color-dark);
+      border-color: #333;
     }
 
     .list-group-item {
       background-color: var(--list-bg-dark);
+      color: var(--text-color-dark);
+    }
+
+    ol {
       color: var(--text-color-dark);
     }
 
