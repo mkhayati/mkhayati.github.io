@@ -32,6 +32,12 @@ nav_order: 6
     text-decoration: underline;
   }
 
+  strong,
+  .font-weight-bold {
+    color: #000000; /* dark text in light mode */
+    font-weight: 700;
+  }
+
   /* Dark mode */
   @media (prefers-color-scheme: dark) {
     body {
@@ -51,6 +57,12 @@ nav_order: 6
 
     a {
       color: #66aaff; /* lighter blue for dark mode */
+    }
+
+    strong,
+    .font-weight-bold {
+      color: #ffffff; /* make bold text bright white in dark mode */
+      font-weight: 700;
     }
   }
 </style>
