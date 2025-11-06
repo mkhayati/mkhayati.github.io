@@ -26,7 +26,7 @@ nav_order: 6
   </div>
 </div>
 
-<h3 class="mt-4">Ongoing</h3>
+<h3 class="mt-4">Ongoing Theses</h3>
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
@@ -52,7 +52,7 @@ nav_order: 6
   </div>
 </div>
 
-<h3 class="mt-4">Completed</h3>
+<h3 class="mt-4">Completed Theses</h3>
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
@@ -108,11 +108,6 @@ nav_order: 6
     <div class="row">
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">BSc</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
-            BSc
-        </span>
       </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
