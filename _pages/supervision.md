@@ -26,7 +26,7 @@ nav_order: 6
   </div>
 </div>
 
-<h3 class="mt-4">Ongoing Theses</h3>
+<h3 class="mt-4">Ongoing</h3>
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
@@ -44,11 +44,6 @@ nav_order: 6
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">MSc</h5>
       </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
-            MSC
-        </span>
-      </div>
     </div>
     <ol class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Time Series Imputation using Large Language Models (Maurice Amon)</li>
@@ -57,7 +52,7 @@ nav_order: 6
   </div>
 </div>
 
-<h3 class="mt-4">Completed Theses</h3>
+<h3 class="mt-4">Completed</h3>
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
@@ -65,6 +60,7 @@ nav_order: 6
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">PhD</h5>
       </div>
+    </div>
     <ol class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2025] A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing (<a href="https://exascale.info/members/abdelouahab-khelifati/" style="color: #000000;">Abdelouahab Khelifati</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2024] Holistic Evaluation of Time Series Data Quality (<a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #000000;">Zakhar Tymchenko</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
@@ -113,6 +109,12 @@ nav_order: 6
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">BSc</h5>
       </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
+            BSc
+        </span>
+      </div>
+    </div>
     <ol class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2024] Automatic Parametrization of Time Series Imputation Techniques (Lucien Gremaud)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2023] Evaluation of Neural Networks Imputation using ImputeBench (Flavien Buron)</li>
