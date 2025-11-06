@@ -84,7 +84,7 @@ nav_order: 6
     <ol class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2025] A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing (<a href="https://exascale.info/members/abdelouahab-khelifati/" style="color: #000000;">Abdelouahab Khelifati</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2024] Holistic Evaluation of Time Series Data Quality (<a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #000000;">Zakhar Tymchenko</a>). Co-supervised with Philippe Cudré-Mauroux.</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2022] Human-AI Collaborative Approaches for Open-Ended Data Curation (<a href="https://inesarous.github.io" style="color: #000000;">Ines Arous</a>). Co-supervised with Philippe Cudré-Mauroux and Jie Yang. Dimitris N. Chorafas Award for Best Thesis in Computer Science.</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2022] Human-AI Collaborative Approaches for Open-Ended Data Curation (<a href="https://inesarous.github.io" style="color: #000000;">Ines Arous</a>). Co-supervised with Philippe Cudré-Mauroux and Jie Yang. <strong>Dimitris N. Chorafas Award for Best Thesis in Computer Science</strong>.</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2019] Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation (<a href="https://exascale.info/members/artem-lutov" style="color: #000000;">Artem Lutov</a>) . Co-supervised with Philippe Cudré-Mauroux.</li>
     </ol>
   </div>
@@ -122,7 +122,7 @@ nav_order: 6
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2017] Real-Time Centroid Decomposition of Streams of Time Series (Oliver Stapleton)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2017] Modeling the Evolution of Fashion Trends using Matrix Factorization Techniques (Leutrim Kaleci)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2016] Implementation of Centroid Decomposition Algorithm on Big Data Platforms - a Comparison Between Spark and Flink (Qian Liu)</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2015] Online Anomaly Detection over Big Data Streams (Laura Rettig). JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences.</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2015] Online Anomaly Detection over Big Data Streams (Laura Rettig).<strong>JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences</strong>.</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2014] Decomposition of Time Series Subsequences (Jonathan Nagel)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2023] Evaluating the Optimality of Centroid Decomposition (Eszter Börzsönyi)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[2022] Visualization and Analysis of Hydrological Data (Michał Kołtonik)</li>
