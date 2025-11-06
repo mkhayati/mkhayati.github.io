@@ -8,24 +8,39 @@ nav_order: 6
 ---
 
 <style>
-  /* Base colors for light mode */
-  body {
-    background-color: #ffffff;
-    color: #000000;
+  :root {
+    --bg-color-light: #ffffff;
+    --text-color-light: #000000;
+    --card-bg-light: #ffffff;
+    --list-bg-light: #f8f9fa;
+    --link-color-light: #0066cc;
+
+    --bg-color-dark: #121212;
+    --text-color-dark: #e0e0e0;
+    --card-bg-dark: #1e1e1e;
+    --list-bg-dark: #2a2a2a;
+    --link-color-dark: #66aaff;
+  }
+
+  /* Base (light mode by default) */
+  body, .page__content {
+    background-color: var(--bg-color-light) !important;
+    color: var(--text-color-light) !important;
   }
 
   .card {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: var(--card-bg-light);
+    color: var(--text-color-light);
+    border: 1px solid #ddd;
   }
 
   .list-group-item {
-    background-color: #f8f9fa;
-    color: #000000;
+    background-color: var(--list-bg-light);
+    color: var(--text-color-light);
   }
 
   a {
-    color: #0066cc; /* blue for light mode */
+    color: var(--link-color-light);
   }
 
   a:hover, a:focus {
@@ -34,38 +49,38 @@ nav_order: 6
 
   strong,
   .font-weight-bold {
-    color: #000000; /* dark text in light mode */
+    color: var(--text-color-light);
     font-weight: 700;
   }
 
-  /* Dark mode */
+  /* Dark mode (prefers-color-scheme or theme toggle) */
   @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #121212;
-      color: #e0e0e0;
+    body, .page__content {
+      background-color: var(--bg-color-dark) !important;
+      color: var(--text-color-dark) !important;
     }
 
     .card {
-      background-color: #1e1e1e;
-      color: #e0e0e0;
+      background-color: var(--card-bg-dark);
+      color: var(--text-color-dark);
     }
 
     .list-group-item {
-      background-color: #2a2a2a;
-      color: #e0e0e0;
+      background-color: var(--list-bg-dark);
+      color: var(--text-color-dark);
     }
 
     a {
-      color: #66aaff; /* lighter blue for dark mode */
+      color: var(--link-color-dark);
     }
 
     strong,
     .font-weight-bold {
-      color: #ffffff; /* make bold text bright white in dark mode */
-      font-weight: 700;
+      color: #ffffff;
     }
   }
 </style>
+
 
 <h3 class="mt-4">Available Theses</h3>
 
