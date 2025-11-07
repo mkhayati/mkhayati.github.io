@@ -39,10 +39,10 @@ nav_order: 6
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
        <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Quentin Nater</a> (
-       2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series.
+       2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-supervised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (2023-now): Holistic Evaluation of Time Series Data Quality (On hold).
+       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (2023-now): Holistic Evaluation of Time Series Data Quality (On hold). Co-supervised with Philippe Cudré-Mauroux.
       </li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
@@ -67,13 +67,13 @@ nav_order: 6
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing.
+       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-supervised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://inesarous.github.io" style="color: #1a73e8;">Ines Arous</a> (2022):  Human-AI Collaborative Approaches for Open-Ended Data Curation. <strong>Dimitris N. Chorafas Award for Best Thesis in Computer Science</strong>.
+       <a href="https://exascale.info/members/ines-arous/" style="color: #1a73e8;">Ines Arous</a> (2022):  Human-AI Collaborative Approaches for Open-Ended Data Curation. <span class="font-weight-bold" style="color: #000000;">Dimitris N. Chorafas Award for Best Thesis in Computer Science</span>. Co-supervised with Philippe Cudré-Mauroux and Jie Yang.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/artem-lutov" style="color: #1a73e8;">Artem Lutov</a> (2019):  Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation.
+       <a href="https://exascale.info/members/artem-lutov" style="color: #1a73e8;">Artem Lutov</a> (2019):  Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation. Co-supervised with Philippe Cudré-Mauroux.
       </li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
@@ -139,7 +139,8 @@ nav_order: 6
         Qian Liu (2016): Implementation of Centroid Decomposition Algorithm on Big Data Platforms - a Comparison Between Spark and Flink
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       Laura Rettig (2015): Online Anomaly Detection over Big Data Streams. <strong>JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences</strong>.
+       Laura Rettig (2015): Online Anomaly Detection over Big Data Streams. 
+       <span class="font-weight-bold" style="color: #000000;">JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences</span>.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Jonathan Nagel (2014): Decomposition of Time Series Subsequences
@@ -151,7 +152,7 @@ nav_order: 6
         Michał Kołtonik (2012): Visualization and Analysis of Hydrological Data
       </li>
     </ul>
- <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">BSc</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Lucien Gremaud (2024): Automatic Parametrization of Time Series Imputation Techniques
