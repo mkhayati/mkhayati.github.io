@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: An overview of the courses I was responsible of or contributed to as a co-instructor.
+description: An overview of the courses I give or co-teach.
 nav: true
 nav_order: 5
 ---
@@ -15,7 +15,6 @@ nav_order: 5
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">
           <a href="https://mkhayati.github.io/courses/sma" style="color: #1a73e8;">Social Media Analytics</a>
-          <span style="color: #000000;">(Main Instructor)</span>
         </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
@@ -25,7 +24,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">2017-present</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;"> Main Instructor (2017-now)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Master Course for the Joint Master of Science in Computer Science
@@ -40,7 +39,6 @@ nav_order: 5
       <div class="col-sm-10">
         <h5 class="font-weight-bold" style="color: #000000;">
           <a href="https://mkhayati.github.io/courses/ds" style="color: #1a73e8;">Seminar Data Science</a>
-          <span style="color: #000000;">(Main Instructor)</span>
         </h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
@@ -50,7 +48,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">2015-present</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">Main Instructor (2015-now)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Master Seminar for the Joint Master of Science in Computer Science
@@ -63,7 +61,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Advanced Software Engineering (Co-instructor)</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Advanced Software Engineering</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
@@ -71,7 +69,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">2021-2025</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">Co-instructor (2021-2025)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Master Course for the Joint Master of Science in Computer Science
@@ -84,7 +82,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Software Engineering (Co-instructor)</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Software Engineering</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
@@ -92,7 +90,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">2021-2025</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">Co-instructor (2021-2025)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Bachelor Course in Computer Science
