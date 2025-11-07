@@ -32,10 +32,10 @@ latest_posts:
 Mourad Khayati is a Senior Lecturer at the Department of Computer Science of the University of Fribourg, Switzerland. Prior to that he was a Senior Researcher in the eXascale Infolab group at the same university. 
 He obtained his PhD from the <a href="http://www.ifi.uzh.ch/dbtg/">University of Zurich</a>, Switzerland, under the supervision of <a href="http://www.ifi.uzh.ch/dbtg/Staff/Boehlen.html">Prof. Michael B&ouml;hlen</a>. 
 His research interests lie in the field of Time Series analytics, with a special focus on
-data cleaning, missing values imputation, and large-scale data management. 
+data cleaning, missing values imputation, and time series data management. 
 
-He regularly serves in the review boards of top-tier database and data engineering venues, including the VLDB Journal, TKDE, KDD, and EDBT. He has served as a Senior Program Committee member for KDD 2026, KDD 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT,
-CIKM and WISE. He led several projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. Over the years, he developed a number of time series tools, made them open-source, and actively participated in promoting reproducibility.
+He regularly serves in the review boards of top-tier database and data engineering venues, including the VLDB Journal, TKDE, KDD, and EDBT. He has served as a Senior Program Committee member for KDD 2026, KDD 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
+CIKM. He led several projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. Over the years, he developed a number of time series tools, made them open-source, and actively participated in promoting reproducibility.
 
 
 ## Selected Tools
