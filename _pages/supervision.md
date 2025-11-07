@@ -76,104 +76,101 @@ nav_order: 6
        <a href="https://exascale.info/members/artem-lutov" style="color: #1a73e8;">Artem Lutov</a> (2019):  Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation. Co-supervised with Philippe Cudré-Mauroux.
       </li>
     </ul>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Matej Kutirov (2025): Automated Model Selection for Time Series Data Generation
+        Matej Kutirov (2025, MSc): Automated Model Selection for Time Series Data Generation
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Andy Keller (2025): Multimodal Unsupervised Streaming Event Detection
+        Andy Keller (2025, MSc): Multimodal Unsupervised Streaming Event Detection
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Dana Rim Ghousson (2025): Prediction of Environmental Hazards using Data Fusion      
+        Dana Rim Ghousson (2025, MSc): Prediction of Environmental Hazards using Data Fusion      
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Quentin Nater (2024): ImputeGAP: A Python library for Time Series Imputation Techniques
+        Quentin Nater (2024, MSc): ImputeGAP: A Python library for Time Series Imputation Techniques
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Martin Poplawski (2024): Empirical Evaluation of Multimodal Data Fusion Approaches for Event Detection
+        Martin Poplawski (2024, MSc): Empirical Evaluation of Multimodal Data Fusion Approaches for Event Detection
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Dardana Jaha (2024): A Comprehensive Analysis and Evaluation of Lossless Compression Techniques for Time Series Data
+        Dardana Jaha (2024, MSc): A Comprehensive Analysis and Evaluation of Lossless Compression Techniques for Time Series Data
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Mirko Bristle (2023): A Lightweight Meta-Learning Framework to Assess the Validity of Model Selection in Time Series Forecasting
+        Lucien Gremaud (2024, BSc): Automatic Parametrization of Time Series Imputation Techniques
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Brian Schweigler (2023): Visualizing Time Series Recovery using ImputeBench
+        Mirko Bristle (2023, MSc): A Lightweight Meta-Learning Framework to Assess the Validity of Model Selection in Time Series Forecasting
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Manuel Mondal (2023): Evaluating Link Prediction for Emerging Nodes in Dynamic Networks
+        Brian Schweigler (2023, MSc): Visualizing Time Series Recovery using ImputeBench
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Zakhar Tymchenko (2022): Evaluating the Impact of Imputation on Time Series Tasks
+        Manuel Mondal (2023, MSc): Evaluating Link Prediction for Emerging Nodes in Dynamic Networks
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Guillaume Chacun (2021): A Configuration-Free Repair of Time Series
+        Flavien Buron (2023, BSc): Evaluation of Neural Networks Imputation using ImputeBench
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Louis Müller (2021): Multiclass Classification of Open-ended Answers
+       Jonathan Bernhard (2023, BSc): An Empirical Comparison of Time Series Forecasting Techniques      
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Gabriela-Carmen Voroneanu (2021): Benchmark of Time Series Management Systems using Analytical Queries
+        Zakhar Tymchenko (2022, MSc): Evaluating the Impact of Imputation on Time Series Tasks
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Julia Eigenmann (2021): Evaluating Text Classification Models on Multilingual Documents
+        Jana Stojanovic (2022, BSc): Evaluating the Impact of Time Series Features on Downstream Tasks
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Adrian Hänni (2020): Correlation-based Anomaly Detection in Time Series
+        Guillaume Chacun (2021, MSc): A Configuration-Free Repair of Time Series
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Mili Biswas (2019): Incremental Enrichment of Taxonomies using Transfer Learning
+        Louis Müller (2021, MSc): Multiclass Classification of Open-ended Answers
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Ahana Malik (2018): Trend Prediction on Fashion Data
+        Gabriela-Carmen Voroneanu (2021, MSc): Benchmark of Time Series Management Systems using Analytical Queries
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       Oliver Stapleton (2017): Real-Time Centroid Decomposition of Streams of Time Series
+        Julia Eigenmann (2021, MSc): Evaluating Text Classification Models on Multilingual Documents
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Leutrim Kaleci (2017): Modeling the Evolution of Fashion Trends using Matrix Factorization Techniques
+        Jonas Fontana (2021, BSc): Comparison of Synthetic Time Series Data Generation Techniques
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Qian Liu (2016): Implementation of Centroid Decomposition Algorithm on Big Data Platforms - a Comparison Between Spark and Flink
+        Adrian Hänni (2020, MSc): Correlation-based Anomaly Detection in Time Series
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       Laura Rettig (2015): Online Anomaly Detection over Big Data Streams. 
+        Mili Biswas (2019, MSc): Incremental Enrichment of Taxonomies using Transfer Learning
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Ahana Malik (2018, MSc): Trend Prediction on Fashion Data
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Manuel Mondal (2018, BSc): Reducing Polarization in Social Media by Balancing Content Exposure
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+       Oliver Stapleton (2017, MSc): Real-Time Centroid Decomposition of Streams of Time Series
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Leutrim Kaleci (2017, MSc): Modeling the Evolution of Fashion Trends using Matrix Factorization Techniques
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Zakhar Tymchenko (2017, BSc): Empirical Comparison of Incremental Matrix Decomposition Techniques
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Qian Liu (2016, MSc): Implementation of Centroid Decomposition Algorithm on Big Data Platforms - a Comparison Between Spark and Flink
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+       Laura Rettig (2015, MSc): Online Anomaly Detection over Big Data Streams. 
        <span class="font-weight-bold" style="color: #000000;">JAACS Best Thesis Award and the Faculty Award for Best Thesis in Theoretical Sciences</span>.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Jonathan Nagel (2014): Decomposition of Time Series Subsequences
+        Jonathan Nagel (2014, MSc): Decomposition of Time Series Subsequences
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Eszter Börzsönyi (2013): Evaluating the Optimality of Centroid Decomposition
+        Eszter Börzsönyi (2013, MSc): Evaluating the Optimality of Centroid Decomposition
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Michał Kołtonik (2012): Visualization and Analysis of Hydrological Data
-      </li>
-    </ul>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">BSc</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Lucien Gremaud (2024): Automatic Parametrization of Time Series Imputation Techniques
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flavien Buron (2023): Evaluation of Neural Networks Imputation using ImputeBench
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       Jonathan Bernhard (2023): An Empirical Comparison of Time Series Forecasting Techniques      
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Jana Stojanovic (2022): Evaluating the Impact of Time Series Features on Downstream Tasks
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Jonas Fontana (2021): Comparison of Synthetic Time Series Data Generation Techniques
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Manuel Mondal (2018): Reducing Polarization in Social Media by Balancing Content Exposure
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Zakhar Tymchenko (2017): Empirical Comparison of Incremental Matrix Decomposition Techniques
+        Michał Kołtonik (2012, MSc): Visualization and Analysis of Hydrological Data
       </li>
     </ul>
   </div>
