@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will be a panelist for the MulTiSA event at ICDE 2025.
+I will be a panelist for the MulTiSA event at ICDE 2025 (<a href="https://multisa2025.github.io">link</a>).
