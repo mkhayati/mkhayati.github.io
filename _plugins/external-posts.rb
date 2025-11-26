@@ -1,4 +1,10 @@
 require 'feedjira'
+require 'feedjira/parser/rss'
+require 'feedjira/parser/atom'
+require 'feedjira/parser/atom_feed'
+require 'feedjira/parser/itunes_rss'
+require 'feedjira/parser/rss_feed_burner'
+Feedjira::Parser.load_parsers
 require 'httparty'
 require 'jekyll'
 require 'nokogiri'
