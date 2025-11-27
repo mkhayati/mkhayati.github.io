@@ -16,9 +16,13 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Evaluating the Impact of Data Quality in Medical Applications
+      </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Federated Learning
       </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Evaluating the Impact of Data Quality in Medical Applications
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Interactive Interface for Automated Time Series Data Repair
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Comparing AutoML Model Selection using ImputeGAP
       </li>
     </ul>
   </div>
@@ -43,9 +47,6 @@ nav_order: 6
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-     <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flaminia Trinca: Integration and Comparison of AutoML Model Selection for Time Series Imputation inside ImputeGAP.
-      </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Maurice Amon: Time Series Imputation using Large Language Models.
       </li>
