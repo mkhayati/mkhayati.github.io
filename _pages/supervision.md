@@ -2,7 +2,7 @@
 layout: page
 permalink: /supervision/
 title: Supervision
-description: A summary of the available projects and the theses I have supervised or co-supervised. I am also open to supervising other ideas and industry projects.
+description: A summary of the available projects and the theses I have supervised or co-supervised. I am also open to discussing other topics.
 nav: true
 nav_order: 6
 ---
@@ -16,9 +16,9 @@ nav_order: 6
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Evaluating the Impact of Data Quality in Medical Applications
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">New Unified Evaluation Metric for Time Series Imputation.
       </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Federated Learning
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Federated. Learning.
       </li>
     </ul>
   </div>
@@ -44,7 +44,7 @@ nav_order: 6
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flamina Trinca: Integrating AutoML Model Selection into ImputeGAP.
+        Flaminia Trinca: Integrating AutoML Model Selection into ImputeGAP.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Maurice Amon: Time Series Imputation using Large Language Models.
