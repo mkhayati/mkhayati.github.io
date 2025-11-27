@@ -44,7 +44,7 @@ nav_order: 6
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flaminia Trinca: Integration and Comparison of AutoML Model Selection inside ImputeGAP.
+        Flaminia Trinca: Integration and Comparison of AutoML Model Selection for Time Series Imputation inside ImputeGAP.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Maurice Amon: Time Series Imputation using Large Language Models.
