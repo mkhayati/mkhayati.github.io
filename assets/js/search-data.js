@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-supervision",
           title: "Supervision",
-          description: "A summary of the available projects and the theses I have supervised or co-supervised. I am also open to supervising other ideas and industry projects.",
+          description: "A summary of the available projects and the theses I have supervised or co-supervised. I am also open to discussing other topics.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervision/";
