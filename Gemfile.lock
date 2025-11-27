@@ -75,7 +75,7 @@ GEM
     faraday_middleware (1.2.1)
       faraday (~> 1.0)
     fast-stemmer (1.0.2)
-    feedjira (2.1.4)
+    feedjira (2.2.0)
       faraday (>= 0.9)
       faraday_middleware (>= 0.9)
       loofah (>= 2.0)
@@ -243,7 +243,7 @@ PLATFORMS
 DEPENDENCIES
   classifier-reborn
   css_parser
-  feedjira (~> 2.1.4)
+  feedjira (~> 2.2)
   httparty
   jekyll
   jekyll-archives-v2
