@@ -1,12 +1,10 @@
 require 'feedjira'
+Feedjira::Parser.load_parser(Feedjira::Parser::RSSElement)
+Feedjira::Parser.load_parser(Feedjira::Parser::Atom)
 require 'httparty'
 require 'jekyll'
 require 'nokogiri'
 require 'time'
-
-# Patch: Force Feedjira parsers to load
-Feedjira::Parser.load_parser(Feedjira::Parser::RSSElement) rescue nil
-Feedjira::Parser.load_parser(Feedjira::Parser::Atom) rescue nil
 
 module ExternalPosts
   class ExternalPostsGenerator < Jekyll::Generator
