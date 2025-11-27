@@ -4,6 +4,8 @@ require 'jekyll'
 require 'nokogiri'
 require 'time'
 
+Feedjira::Parser::RSS
+Feedjira::Parser::Atom
 
 module ExternalPosts
   class ExternalPostsGenerator < Jekyll::Generator
