@@ -39,11 +39,10 @@ CIKM. He led a couple of projects, including a H2020 project and an SNF/DFG coll
 
 
 ## Selected Tools
-* <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://exascale.info/assets/pdf/khayati2025kdd.pdf">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">library</a>]
+* <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://exascale.info/assets/pdf/khayati2025kdd.pdf">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">code</a>]
 * <b>SEER </b>: Toolkit to Evaluate Time Series Database Systems [<a href="https://www.vldb.org/pvldb/vol17/p4361-khayati.pdf">PDF (pvldb'24)</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
-* <b>TSM-Bench </b>: Benchmark of Time Series DBs [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF (pvldb'23)</a> \| <a href="https://github.com/eXascaleInfolab/TSM-Bench">code</a> \|  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">repro</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
+* <b>TSM-Bench</b>: Benchmark of Time Series DBs [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF (pvldb'23)</a> \| <a href="https://github.com/eXascaleInfolab/TSM-Bench">code</a> \|  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">repro</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
 * <b>ORBITS</b>: Streaming Time Series Imputation [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf">PDF (pvldb'21) </a> \| <a href="https://github.com/eXascaleInfolab/orbits">code</a> \|  <a href="https://github.com/eXascaleInfolab/orbits_repro">repro</a> \| <a href="http://revival.exascale.info/streaming/datastream.php">GUI</a>]
-* <b>VADETIS </b>: Explainable Evaluator for Anomaly Detection [<a href="https://ieeexplore.ieee.org/document/9458746">PDF (icde'21)</a> \| <a href="http://vadetis.exascale.info">GUI</a>]
-* <b>ImputeBench </b>: Time Series Imputation Benchmark  [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf">PDF (pvldb'20)</a> \| <a href="https://github.com/eXascaleInfolab/bench-vldb20">code</a>  \|  <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award">repro</a>]
-* <b>RecovDB </b>: Time Series Repair inside MonetDB [<a href="https://ieeexplore.ieee.org/document/8731357">PDF (icde'19)</a> \| <a href="https://github.com/eXascaleInfolab/2018-RecovDB
-">code</a> \| <a href="http://revival.exascale.info/recovery/recovdb.php">GUI</a>]
+* <b>VADETIS</b>: Explainable Evaluator for Anomaly Detection [<a href="https://ieeexplore.ieee.org/document/9458746">PDF (icde'21)</a> \| <a href="https://github.com/eXascaleInfolab/vadetis">code</a> \| <a href="http://vadetis.exascale.info">GUI</a>]
+* <b>ImputeBench</b>: Time Series Imputation Benchmark  [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf">PDF (pvldb'20)</a> \| <a href="https://github.com/eXascaleInfolab/bench-vldb20">code</a>  \|  <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award">repro</a>]
+* <b>RecovDB</b>: Time Series Repair inside MonetDB [<a href="https://ieeexplore.ieee.org/document/8731357">PDF (icde'19)</a> \| <a href="https://github.com/eXascaleInfolab/2018-RecovDB">code</a> \| <a href="http://revival.exascale.info/recovery/recovdb.php">GUI</a>]
