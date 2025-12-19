@@ -68,7 +68,7 @@ nav_order: 3
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (22)*</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (5)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (5)</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (3)</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (4)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Transactions on Parallel and Distributed Systems (2)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Environmental Modelling and Software (2)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information Systems (1)</li>
@@ -76,7 +76,7 @@ nav_order: 3
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Artificial Intelligence (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">PlOS One (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information and Software Technology (1)</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">*(): refers to the number of reviewed papers</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">*(): number of reviewed papers</li>
     </ul>
   </div>
 </div>
