@@ -76,4 +76,4 @@ As part of the course assessment, students must complete a semester-long project
 
 ---
 
-> *Course material will be published on ILIAS.*
+*Course material will be published on ILIAS.*
