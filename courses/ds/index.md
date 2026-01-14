@@ -30,9 +30,7 @@ Students will also learn how to integrate an algorithm into a library, benchmark
 
 ## Evaluation and Expectations
 
-The final grade depends on the quality of the report, presentation, integration quality, and active participation during the seminar. Each participant prepares a self-contained report of at least five pages and gives a presentation of 30 minutes.
-
-The report should:
+The final grade depends on the quality of the report, presentation, integration quality, and active participation during the seminar. Each participant prepares a self-contained report of at least five pages and gives a presentation of 30 minutes. The report should:
 
 * Describe the proposed algorithm in detail
 * Include small running examples or counterexamples
@@ -45,50 +43,43 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 * Write the [report](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)
 * Prepare the [presentation](http://www.matt.might.net/articles/academic-presentation-tips/)
 
-**IMPORTANT NOTE:** Attendance is mandatory for the two-class seminar sessions. The total number of participants is limited to 20.
+> Attendance is mandatory for the two-class seminar sessions. The total number of participants is limited to 20.
 
 ---
 
 ## Schedule
 
 #### Kickoff Meeting
-Organization of the seminar and paper assignment
-Tue, 23.09.2025, 14:15–16:00 — Room E230
+Organization of the seminar and paper assignment:
+**Tue, 23.09.2025, 14:15–16:00** — Room E230
 
 #### Additional Introductory Meeting
-Organization of the seminar and library introduction
-Tue, 07.10.2025, 14:15–16:00 — Room C421
+Organization of the seminar and library introduction: 
+**Tue, 07.10.2025, 14:15–16:00** — Room C421
 
 #### First Presentation Session
-Report deadline — *Batch 1*
-**Tue, 11.11.2025**
+Report deadline of Batch 1: **Tue, 11.11.2025**
 
-Office meeting with students from *Batch 1*
-**Tue, 18.11.2025 (all day)** — Room C433
+Office meeting with students from Batch 1: **Tue, 18.11.2025 (all day)** — Room C433
 
-
-Presentations of *Batch 1*
-Tue, 25.11.2025, 14:15–19:00 — Room PER17, 001
+Presentations of Batch 1: **Tue, 25.11.2025, 14:15–19:00** — Room PER17, 001
 
 
 #### Second Presentation Session
 
-Report deadline — *Batch 2*
-**Tue, 25.11.2025**
+Report deadline for Batch 2: **Tue, 25.11.2025**
 
-Office meeting with students from *Batch 2*
-**Tue, 02.12.2025 (all day)** — Room C433
+Office meeting with students from Batch 2: **Tue, 02.12.2025 (all day)** — Room C433
 
-Presentations of *Batch 2*
-Tue, 09.12.2025, 14:15–19:00 — Room PER17, 001
+Presentations of Batch 2: **Tue, 09.12.2025, 14:15–19:00** — Room PER17, 001
 
 
 #### Deadline Final Report
-Tue, 13.01.2026
+Report to be sent by **Tue, 13.01.2026**
 
 
 #### Code Inspection
-Tue, 20.01.2026 (all day) — Room C433
+Discuss the integration into ImputeGAP: **Tue, 20.01.2026 (all day)** — Room C433
 
 ---
 
