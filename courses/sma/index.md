@@ -41,9 +41,9 @@ Upon successful completion of this course, you will be able to:
 
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
-**Textbooks**: The textbooks for the course are:
-* book1: *Social Data Mining: An Introduction*, First edition, Cambridge University Press, 2014. Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu.   [link](https://www.socialmediamining.info/SMM.pdf)
-* book2: *Graph Representation Learning* Synthesis Lectures on Artificial Intelligence and Machine Learning, 2020. William L. Hamilton. [link](https://www.cs.mcgill.ca/~wlh/grl_book/)
+**Textbooks**: The course will use two textbooks (one primary and one secondary):
+* **Social Data Mining: An Introduction**, First edition, Cambridge University Press, 2014. Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu.   [ebook](https://www.socialmediamining.info/SMM.pdf)
+* **Graph Representation Learning**, Synthesis Lectures on Artificial Intelligence and Machine Learning, 2020. William L. Hamilton. [ebook](https://www.cs.mcgill.ca/~wlh/grl_book/)
 ---
 
 ## Project
@@ -55,14 +55,14 @@ As part of the course assessment, students must complete a semester-long project
 ## Syllabus
 
 * **Lect 01:** Social Media Analytics Basics
-* **Lect 02:** Graph Management (Chapter 2 in book1)
-* **Lect 03:** Network Measures (Chapter 3 in book1)
-* **Lect 04:** Community Structure (Chapter 6 in book1)
-* **Lect 05:** Graph Completion ( Part I & II in book2)
-* **Lect 06:** Diffusion & Assortativity (Chapters 7 and 8 in book1)
-* **Lect 07:** Social Recommendation (Chapter 9 in book1)
-* **Lect 08:** Social Graph Mining (Chapter 5 in book1)
-* **Lect 09:** Network Models (Chapter 4 in book1)
+* **Lect 02:** Graph Management (Chapter 2 in book 1)
+* **Lect 03:** Network Measures (Chapter 3 in book 1)
+* **Lect 04:** Community Structure (Chapter 6 in book 1)
+* **Lect 05:** Graph Completion ( Part I & II in book 2)
+* **Lect 06:** Diffusion & Assortativity (Chapters 7 and 8 in book 1)
+* **Lect 07:** Social Recommendation (Chapter 9 in book 1)
+* **Lect 08:** Social Graph Mining (Chapter 5 in book 1)
+* **Lect 09:** Network Models (Chapter 4 in book 1)
 * **Lect 10:** Knowledge Graphs (Guest Lecture)
 * **Lect 11:** Recap
 
