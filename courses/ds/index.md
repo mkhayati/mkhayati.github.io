@@ -49,11 +49,13 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 ## Schedule
 
-**Kickoff Meeting** Organization of the seminar and paper assignment:
-*Tue, 23.09.2025, 14:15–16:00* — Room E230
+**Kickoff Meeting** 
 
-**Additional Introductory Meeting** Organization of the seminar and library introduction: 
-*Tue, 07.10.2025, 14:15–16:00* — Room C421
+Organization of the seminar and paper assignment: *Tue, 23.09.2025, 14:15–16:00* — Room E230
+
+**Additional Introductory Meeting** 
+
+Organization of the seminar and library introduction: *Tue, 07.10.2025, 14:15–16:00* — Room C421
 
 **First Presentation Session** 
 
@@ -66,17 +68,21 @@ Presentations of Batch 1: *Tue, 25.11.2025, 14:15–19:00* — Room PER17, 001
 
 **Second Presentation Session** 
 
-Report deadline for Batch 2: Tue, 25.11.2025*
+Report deadline for Batch 2: Tue, 25.11.2025
 
 Office meeting with students from Batch 2: *Tue, 02.12.2025 (all day)* — Room C433
 
 Presentations of Batch 2: *Tue, 09.12.2025, 14:15–19:00* — Room PER17, 001
 
 
-**Deadline Final Report**: *Tue, 13.01.2026*
+**Deadline Final Report**
+
+*Tue, 13.01.2026*
 
 
-**Code Inspection**: *Tue, 20.01.2026 (all day)* — Room C433
+**Code Inspection**
+
+*Tue, 20.01.2026 (all day)* — Room C433
 
 ---
 
