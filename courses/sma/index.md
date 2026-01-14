@@ -39,13 +39,9 @@ Upon successful completion of this course, you will be able to:
 
 **Teaching format**: This course consists of lectures and hands-on exercises/labs. The weekly/bi-weekly exercises are an important part of the learning process. Solving the exercises will be the best way to prepare for the final exam.
 
-The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER17)**. The lecture notes for the course will become available as we progress through the semester.
+The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
-**Textbook**: The textbook for the course is:
-
-*Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu.*  
-**Social Data Mining: An Introduction**, First edition, Cambridge University Press, 2014.  
-[PDF link](https://www.socialmediamining.info/SMM.pdf)
+**Textbooks**: The textbook for the course is: Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu: *Social Data Mining: An Introduction*, First edition, Cambridge University Press, 2014.  [link](https://www.socialmediamining.info/SMM.pdf)
 
 ---
 
