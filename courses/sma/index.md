@@ -5,7 +5,7 @@ title: SMA Course
 
 # Social Media Analytics Course
 
-**Responsible and Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
+**Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
 **Co-instructors:** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)  
 **Teaching Assistant:** [Manuel Mondal](https://exascale.info/members/manuel/)  
 **Level:** Master (5 ECTS), Fribourg, Spring 2026
