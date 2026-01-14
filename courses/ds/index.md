@@ -26,8 +26,6 @@ The goal for the students is to learn how to critically read and study a researc
 
 Students will also learn how to integrate an algorithm into a library, benchmark it against other algorithms, and perform the required unit tests. For this purpose, we will use [ImputeGAP](https://imputegap.readthedocs.io), a comprehensive library designed for time series imputation analysis.
 
-**IMPORTANT NOTE:** Papers are distributed on a first-come, first-served basis.
-
 ---
 
 ## Evaluation and Expectations
@@ -53,18 +51,18 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 ## Schedule
 
-**Kickoff Meeting**
+### Kickoff Meeting
 Tue, 23.09.2025, 14:15–16:00 — Room E230
 Organization of the seminar and paper assignment
 
 ---
 
-**Additional Introductory Meeting**
+### Additional Introductory Meeting
 Tue, 07.10.2025, 14:15–16:00 — Room C421
 Organization of the seminar and library introduction
 
 ---
-
+### First Presentation Session
 **Tue, 11.11.2025**
 Report deadline — *Batch 1*
 
@@ -76,6 +74,7 @@ Tue, 25.11.2025, 14:15–19:00 — Room PER17, 001
 Presentations of *Batch 1*
 
 ---
+### Second Presentation Session
 
 **Tue, 25.11.2025**
 Report deadline — *Batch 2*
@@ -89,12 +88,12 @@ Presentations of *Batch 2*
 
 ---
 
-**Deadline Final Report**
+### Deadline Final Report
 Tue, 13.01.2026
 
 ---
 
-**Code Inspection**
+### Code Inspection
 Tue, 20.01.2026 (all day) — Room C433
 
 ---
@@ -117,4 +116,4 @@ Papers are distributed on a first-come, first-served basis.
 | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 *(no repro)*         | 09.12.2025        | Sanika Deore             |
 | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24                             | 09.12.2025        | Flaminia Trinca          |
 
-*Papers marked with **(no repro)** are exempt from the reproducibility task.*
+> *Papers marked with **(no repro)** are exempt from the reproducibility task.*
