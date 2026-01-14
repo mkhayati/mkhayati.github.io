@@ -51,49 +51,43 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 ## Schedule
 
-### Kickoff Meeting
-Tue, 23.09.2025, 14:15–16:00 — Room E230
+#### Kickoff Meeting
 Organization of the seminar and paper assignment
+Tue, 23.09.2025, 14:15–16:00 — Room E230
 
----
-
-### Additional Introductory Meeting
-Tue, 07.10.2025, 14:15–16:00 — Room C421
+#### Additional Introductory Meeting
 Organization of the seminar and library introduction
+Tue, 07.10.2025, 14:15–16:00 — Room C421
 
----
-### First Presentation Session
-**Tue, 11.11.2025**
+#### First Presentation Session
 Report deadline — *Batch 1*
+**Tue, 11.11.2025**
 
-**Tue, 18.11.2025 (all day)** — Room C433
 Office meeting with students from *Batch 1*
+**Tue, 18.11.2025 (all day)** — Room C433
 
-**First Presentation Session**
-Tue, 25.11.2025, 14:15–19:00 — Room PER17, 001
+
 Presentations of *Batch 1*
+Tue, 25.11.2025, 14:15–19:00 — Room PER17, 001
 
----
-### Second Presentation Session
 
-**Tue, 25.11.2025**
+#### Second Presentation Session
+
 Report deadline — *Batch 2*
+**Tue, 25.11.2025**
 
-**Tue, 02.12.2025 (all day)** — Room C433
 Office meeting with students from *Batch 2*
+**Tue, 02.12.2025 (all day)** — Room C433
 
-**Second Presentation Session**
-Tue, 09.12.2025, 14:15–19:00 — Room PER17, 001
 Presentations of *Batch 2*
+Tue, 09.12.2025, 14:15–19:00 — Room PER17, 001
 
----
 
-### Deadline Final Report
+#### Deadline Final Report
 Tue, 13.01.2026
 
----
 
-### Code Inspection
+#### Code Inspection
 Tue, 20.01.2026 (all day) — Room C433
 
 ---
@@ -102,7 +96,7 @@ Tue, 20.01.2026 (all day) — Room C433
 
 Papers are distributed on a first-come, first-served basis.
 
-| Paper                                                                                                | Presentation Date | Presenter                |
+| Paper                                                                                                |  Date 			   | Presenter                |
 | ---------------------------------------------------------------------------------------------------- | ----------------- | ------------------------ |
 | SAITS: Self-attention-based imputation for time series, ESWA’23                                      | 25.11.2025        | Kachuriak Volodymyr      |
 | Missing Value Imputation on Multidimensional Time Series, VLDB’21                                    | 25.11.2025        | Sinthuja Vijayananthan   |
