@@ -63,7 +63,7 @@ As part of the course assessment, students must complete a semester-long project
 * **Lect 02:** Graph Management (Chapter 2 in book 1)
 * **Lect 03:** Network Measures (Chapter 3 in book 1)
 * **Lect 04:** Community Structure (Chapter 6 in book 1)
-* **Lect 05:** Graph Completion ( Part I & II in book 2)
+* **Lect 05:** Graph Completion (Parts I & II in book 2)
 * **Lect 06:** Diffusion & Assortativity (Chapters 7 and 8 in book 1)
 * **Lect 07:** Social Recommendation (Chapter 9 in book 1)
 * **Lect 08:** Social Graph Mining (Chapter 5 in book 1)

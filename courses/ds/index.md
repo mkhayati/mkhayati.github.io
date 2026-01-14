@@ -49,37 +49,34 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 ## Schedule
 
-#### Kickoff Meeting
-Organization of the seminar and paper assignment:
-**Tue, 23.09.2025, 14:15–16:00** — Room E230
+**Kickoff Meeting** Organization of the seminar and paper assignment:
+*Tue, 23.09.2025, 14:15–16:00* — Room E230
 
-#### Additional Introductory Meeting
-Organization of the seminar and library introduction: 
-**Tue, 07.10.2025, 14:15–16:00** — Room C421
+**Additional Introductory Meeting** Organization of the seminar and library introduction: 
+*Tue, 07.10.2025, 14:15–16:00* — Room C421
 
-#### First Presentation Session
-Report deadline of Batch 1: **Tue, 11.11.2025**
+**First Presentation Session** 
 
-Office meeting with students from Batch 1: **Tue, 18.11.2025 (all day)** — Room C433
+Report deadline of Batch 1: *Tue, 11.11.2025*
 
-Presentations of Batch 1: **Tue, 25.11.2025, 14:15–19:00** — Room PER17, 001
+Office meeting with students from Batch 1: *Tue, 18.11.2025 (all day)* — Room C433
 
-
-#### Second Presentation Session
-
-Report deadline for Batch 2: **Tue, 25.11.2025**
-
-Office meeting with students from Batch 2: **Tue, 02.12.2025 (all day)** — Room C433
-
-Presentations of Batch 2: **Tue, 09.12.2025, 14:15–19:00** — Room PER17, 001
+Presentations of Batch 1: *Tue, 25.11.2025, 14:15–19:00* — Room PER17, 001
 
 
-#### Deadline Final Report
-Report to be sent by **Tue, 13.01.2026**
+**Second Presentation Session** 
+
+Report deadline for Batch 2: Tue, 25.11.2025*
+
+Office meeting with students from Batch 2: *Tue, 02.12.2025 (all day)* — Room C433
+
+Presentations of Batch 2: *Tue, 09.12.2025, 14:15–19:00* — Room PER17, 001
 
 
-#### Code Inspection
-Discuss the integration into ImputeGAP: **Tue, 20.01.2026 (all day)** — Room C433
+**Deadline Final Report**: *Tue, 13.01.2026*
+
+
+**Code Inspection**: *Tue, 20.01.2026 (all day)* — Room C433
 
 ---
 
