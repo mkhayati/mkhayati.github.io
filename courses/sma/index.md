@@ -6,7 +6,7 @@ title: SMA Course
 # Social Media Analytics Course
 
 **Responsible and Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
-**Co-instructors** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)
+**Co-instructors:** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)  
 **Teaching Assistant:** [Manuel Mondal](https://exascale.info/members/manuel/)  
 **Level:** Master (5 ECTS), Fribourg, Spring 2026
 
@@ -42,7 +42,8 @@ Upon successful completion of this course, you will be able to:
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
 
-> The participation to the course is limited to 45 students. Only students who will pass the placement test can continue with the course. 
+> The participation to the course will be limited to 45 students. Only students who will pass the placement test can continue with the course.
+
 
 **Textbooks**: The course will use two textbooks (one primary and one secondary):
 
