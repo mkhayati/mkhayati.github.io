@@ -5,8 +5,8 @@ title: DS Seminar
 
 # Data Science Seminar: Time Series Imputation
 
-**Lecturer:** [Mourad Khayati](http://exascale.info/members/mkhayati)
-**Teaching Assistant:** [Quentin Nater](https://exascale.info/members/quentin-nater/)
+**Lecturer:** [Mourad Khayati](http://exascale.info/members/mkhayati)  
+**Teaching Assistant:** [Quentin Nater](https://exascale.info/members/quentin-nater/)  
 **Level:** Master (5 ECTS), Fribourg, Fall 2025
 
 ---
