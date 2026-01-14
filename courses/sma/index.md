@@ -5,8 +5,8 @@ title: SMA Course
 
 # Social Media Analytics Course
 
-**Responsible:** [Mourad Khayati](https://mkhayati.github.io)  
-**Lecturers:** [Mourad Khayati](https://mkhayati.github.io), [Philippe Cudré-Mauroux](https://exascale.info/phil/)  
+**Responsible and Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
+**Co-instructors** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)
 **Teaching Assistant:** [Manuel Mondal](https://exascale.info/members/manuel/)  
 **Level:** Master (5 ECTS), Fribourg, Spring 2026
 
@@ -41,13 +41,15 @@ Upon successful completion of this course, you will be able to:
 
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
+
+> The participation to the course is limited to 45 students. Only students who will pass the placement test can continue with the course. 
+
 **Textbooks**: The course will use two textbooks (one primary and one secondary):
 
 - **Social Data Mining: An Introduction**, First edition, Cambridge University Press, 2014.  Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu. [(ebook)](https://www.socialmediamining.info/SMM.pdf)
 
 - **Graph Representation Learning**, Synthesis Lectures on Artificial Intelligence and Machine Learning, 2020. William L. Hamilton. [(ebook)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
-
-**Participation**: Attendance will be limited to 45. Only students who will pass the placement test can take part of the course.  
+ 
 
 ---
 
