@@ -42,7 +42,7 @@ Upon successful completion of this course, you will be able to:
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
 
-> *The participation in the course will be limited to 45 students. Only students who will pass the placement test can continue with the course*.
+> *Due to project-related constraints, the number of participants in the course will be limited. Only students who pass the placement test will be eligible to continue.*.
 
 
 **Textbooks**: The course will use two textbooks (one primary and one secondary):
