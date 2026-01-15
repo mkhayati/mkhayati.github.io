@@ -2,13 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: An overview of the courses I give or co-teach.
+description: An overview of the courses I have been teaching.
 nav: true
 nav_order: 5
 ---
 
+<!---
 <h3 class="mt-4" style="color: #000000;">University of Fribourg</h3>
-
+-->
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
     <div class="row">
