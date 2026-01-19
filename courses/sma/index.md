@@ -77,23 +77,24 @@ As part of the course assessment, students must complete a semester-long project
 ---
 ## Schedule
 
-| Date        | Lecture                                           		  | Exercises                                	        |
-|-------------|-----------------------------------------------------------|-----------------------------------------------------|
-| 17/02/2026  | sl01 – Intro and SMA Basics (MKH)                         | Intro Projects and Examples (90min)                 |
-| 24/02/2026  | sl02 – Graph Management (MKH)                             | ex01 – Graph Tools                                  |
-| 03/03/2026  | sl03 – Network Measures (MKH)                             | ex02 – Graph Management  							|
-| 10/03/2026  | Project Idea Presentations (MKH)                                              								    |
-| 17/03/2026  | sl04 – Community Detection / 1 (MKH)                      | ex03 – Network Measures                             |
-| 24/03/2026  | sl04 – Community Detection / 2 (MKH)                      | Check point 1 (90min)                               |
-| 31/03/2026  | sl05 – Graph Completion (MM)                              | ex04 – Community Structure Analysis                 |
-| 07/04/2026  | Easter Holidays                                          					                                    |
-| 14/04/2026  | sl06 – Diffusion / Influence (PCM)						  | ex05 – Graph Completion                             |
-| 21/04/2026  | sl07 – Social Recommendation (JA)                         | ex06 – Diffusion / Influence                        |
-| 28/04/2026  | sl08 – Social Graph Mining (MKH)                          | ex07 – Social Recommendation                        |
-| 05/05/2026  | sl10 – Knowledge Graphs (Guest)                     	  | Check point 2 (90min)                               |
-| 12/05/2026  | sl09 – Network Models (PCM)                               | ex08 – Social Graph Mining                          |
-| 19/05/2026  | sl11 – Recap (MKH)                                        | ex09 – Network Models                               |
-| 26/05/2026  | Project Final Presentations (MKH)                    									                        |
+| Date       | Lecturer        | Lecture                                      | Exercises                                   |
+|:----------:|:---------------:|:--------------------------------------------|:---------------------------------------------|
+| 17/02/2026 | M. Khayati      | sl01 – Intro and SMA Basics                  | Intro Projects and Previous Examples (90min)|
+| 24/02/2026 | M. Khayati      | sl02 – Graph Management                      | ex01 – Graph Tools (60min)                  |
+| 03/03/2026 | M. Khayati      | sl03 – Network Measures                      | ex02 – Graph Management (60min)             |
+| 10/03/2026 | M. Khayati      | Project – Idea Presentations                 |                                             |
+| 17/03/2026 | M. Khayati      | sl04 – Community Detection / 1               | ex03 – Network Measures (60min)             |
+| 24/03/2026 | M. Khayati      | sl04 – Community Detection / 2               | Check point 1 (90min)                       |
+| 31/03/2026 | M. Mondal       | sl05 – Graph Completion                      | ex04 – Community Structure Analysis (60min) |
+| 07/04/2026 |                 | Easter Holidays                              |                                             |
+| 14/04/2026 | P.C-Mauroux     | sl06 – Diffusion / Influence                 | ex05 – Graph Completion (60min)             |
+| 21/04/2026 | J. Audiffren    | sl07 – Social Recommendation                 | ex06 – Diffusion / Influence (60min)        |
+| 28/04/2026 | M. Khayati      | sl08 – Social Graph Mining                   | ex07 – Social Recommendation (60min)        |
+| 05/05/2026 | Guest           | sl10 – Knowledge Graphs                      | Check point 2 (90min)                       |
+| 12/05/2026 | P.C-Mauroux     | sl09 – Network Models                        | ex08 – Social Graph Mining (60min)          |
+| 19/05/2026 | M. Khayati      | sl11 – Recap                                 | ex09 – Network Models (60min)               |
+| 26/05/2026 | M. Khayati      | Project – Final Presentations                |                                             |
+
 
 ---
 
