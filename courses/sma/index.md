@@ -42,7 +42,7 @@ Upon successful completion of this course, you will be able to:
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
 
-> *Due to project-related constraints, the number of participants in the course will be limited. Only students who pass the placement test will be eligible to continue.*.
+The number of participants in the course will be limited to ensure adequate supervision for all projects. Only students who pass the placement test will be eligible to continue. The final list of participants will be confirmed by March 6, 2026.
 
 
 **Textbooks**: The course will use two textbooks (one primary and one secondary):
@@ -75,10 +75,10 @@ As part of the course assessment, students must complete a semester-long project
 * **Lect 11:** Recap
 
 ---
-## Schedule
+## Tentative Schedule
 
 | Date       | Lecture                                     | Exercises                                   |
-|:----------:|:--------------------------------------------|:--------------------------------------------|
+|:-----------|:--------------------------------------------|:--------------------------------------------|
 | 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Previous Examples (90min)|
 | 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Tools (60min)                  |
 | 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management (60min)             |
