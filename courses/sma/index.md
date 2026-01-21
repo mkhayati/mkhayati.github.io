@@ -8,7 +8,8 @@ title: SMA Course
 **Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
 **Co-instructors:** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)  
 **Teaching Assistant:** [Manuel Mondal](https://exascale.info/members/manuel/)  
-**Level:** Master (5 ECTS), Fribourg, Spring 2026
+**Level:** Master (5 ECTS), Spring 2026
+**Location:** Fribourg
 
 
 ---
@@ -95,7 +96,7 @@ As part of the course assessment, students must complete a semester-long project
 | 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Network Models (60min)               |
 | 26/05/2026 | Project – Final Presentations (M. Khayati)                                                |
 
-
+> The schedule might slightly change depending on the availability of the lecturers.
 
 ---
 
