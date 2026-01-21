@@ -8,7 +8,7 @@ title: SMA Course
 **Main Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
 **Co-instructors:** [Philippe Cudré-Mauroux](https://exascale.info/phil/) and [Julien Audiffren](https://jythen.github.io)  
 **Teaching Assistant:** [Manuel Mondal](https://exascale.info/members/manuel/)  
-**Level:** Master (5 ECTS), Spring 2026
+**Level:** Master (5 ECTS), Spring 2026  
 **Location:** Fribourg
 
 
