@@ -90,35 +90,22 @@ Presentations of Batch 2: *Tue, 09.12.2025, 14:15–19:00* — Room PER17, 001
 ## Paper Assignment
 
 Papers are distributed on a first-come, first-served basis.
+| Paper | Date | Presenter |
+|-------|------|-----------|
+| 1. SAITS: Self-attention-based imputation for time series, ESWA’23 | 25.11.2025 | Volodymyr Kachuriak |
+| 2. Missing Value Imputation on Multidimensional Time Series, VLDB’21 | 25.11.2025 | Sinthuja Vijayananthan |
+| 3. BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 | 25.11.2025 | Daksh Patel |
+| 4. Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 | 25.11.2025 | Nicolas Wyss |
+| 5. NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 | 25.11.2025 | Carla Malo |
+| 6. Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22 | 25.11.2025 | Jue Wang |
+| 7. CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 | 09.12.2025 | Emma Chambers |
+| 8. ReCTSi: Resource-efficient Correlated Time Series Imputation, KDD’24 *(no repro)* | 09.12.2025 | Alejandro Nardo González |
+| 9. GP-VAE: Deep probabilistic time series imputation, AISTATS’20 | 09.12.2025 | Sebastian Käslin |
+| 10. Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 *(no repro)* | 09.12.2025 | Sanika Deore |
+| 11. Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 | 09.12.2025 | Flaminia Trinica |
+| 12. Gp-vae: Deep probabilistic time series imputation, AISTATS’20 | 09.12.2025 | Alba Adili |
+| 13. TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR’23 *(no repro)* | 09.12.2025 | Ghulam Hussain Wabil |
 
-| Paper                                                                                                   | Date        | Presenter                |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 1. SAITS: Self-attention-based imputation for time series, ESWA’23                                      | 25.11.2025  | Volodymyr Kachuriak      |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 2. Missing Value Imputation on Multidimensional Time Series, VLDB’21                                    | 25.11.2025  | Sinthuja Vijayananthan   |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 3. BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 | 25.11.2025  | Daksh Patel              |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 4. Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24   | 25.11.2025  | Nicolas Wyss             |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 5. NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24                            | 25.11.2025  | Carla Malo               |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 6. Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22              | 25.11.2025  | Jue Wang                 |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 7. CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21  | 09.12.2025  | Emma Chambers            |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 8. ReCTSi: Resource-efficient Correlated Time Series Imputation, KDD'24 *(no repro)*                    | 09.12.2025  | Alejandro Nardo González |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 9. GP-VAE: Deep probabilistic time series imputation, AISTATS’20                                        | 09.12.2025  | Sebastian Käslin         |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 10. Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 *(no repro)*        | 09.12.2025  | Sanika Deore             |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 11. Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24                            | 09.12.2025  | Flaminia Trinica         |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 12. Gp-vae: Deep probabilistic time series imputation, AISTATS'20                                       | 09.12.2025  | Alba Adili               |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
-| 13. TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)*     | 09.12.2025  | Ghulam Hussain Wabil     |
-|---------------------------------------------------------------------------------------------------------|-------------|--------------------------|
 
 
 
