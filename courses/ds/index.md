@@ -108,4 +108,22 @@ Papers are distributed on a first-come, first-served basis.
 | **13**. TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)*     | 09.12.2025           | Ghulam Hussain Wabil     |
 
 
+| Presenter     	  		| Date       | Paper  	|
+| --------      	  		| --------   | -------- |
+| Volodymyr Kachuriak 		| 25.11.2025 | SAITS: Self-attention-based imputation for time series, ESWA’23 |
+| Sinthuja Vijayananthan    | 25.11.2025 | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
+| Daksh Patel 			    | 25.11.2025 | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
+| Nicolas Wyss    			| 25.11.2025 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
+| Carla Malo			    | 25.11.2025 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
+| Jue Wang				    | 25.11.2025 | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
+| Emma Chambers			    | 09.12.2025 | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
+| Alejandro Nardo González  | 09.12.2025 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24 *(no repro)* |
+| Sebastian Käslin		    | 09.12.2025 | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
+| Sanika Deore			    | 09.12.2025 | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 *(no repro)* |
+| Flaminia Trinica		    | 09.12.2025 | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
+| Alba Adili 			    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)* |
+| Ghulam Hussain Wabil	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)* |
+
+
+
 > *Papers marked with **(no repro)** are exempt from the reproducibility task.*
