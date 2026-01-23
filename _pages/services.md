@@ -76,6 +76,7 @@ nav_order: 3
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Artificial Intelligence (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">PlOS One (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information and Software Technology (1)</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Journal of Big Data (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">*(): number of reviewed papers</li>
     </ul>
   </div>
