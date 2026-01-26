@@ -81,7 +81,7 @@ As part of the course assessment, students must complete a semester-long project
 | Date       | Lecture                                     | Exercises                                   |
 |:-----------|:--------------------------------------------|:--------------------------------------------|
 | 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples (90min)		 |
-| 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Visualization Tools (60min)    |
+| 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Processing Tools (60min)    |
 | 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management (60min)             |
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                 |
 | 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures (60min)             |
