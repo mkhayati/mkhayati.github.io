@@ -80,17 +80,17 @@ As part of the course assessment, students must complete a semester-long project
 
 | Date       | Lecture                                     | Exercises                                   |
 |:-----------|:--------------------------------------------|:--------------------------------------------|
-| 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples (90min)		 |
-| 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Processing Tools (60min)    |
-| 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management (60min)             |
+| 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples         |
+| 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Processing Tools       |
+| 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management             |
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                 |
-| 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures (60min)             |
+| 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures             |
 | 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point 1 (90min)                       |
-| 31/03/2026 | sl05 – Graph Completion (M. Mondal)         | ex04 – Community Detection (60min)			 |
+| 31/03/2026 | sl05 – Graph Completion (M. Mondal)         | ex04 – Community Detection			 |
 | 07/04/2026 | Easter Holidays                                                                           |
-| 14/04/2026 | sl06 – Diffusion / Influence (P. C-Mauroux) | ex05 – Graph Completion (60min)             |
-| 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex06 – Diffusion / Influence (60min)        |
-| 28/04/2026 | sl08 – Social Graph Mining (M. Khayati)     | ex07 – Social Recommendation (60min)        |
+| 14/04/2026 | sl06 – Diffusion / Influence (P. C-Mauroux) | ex05 – Graph Completion             |
+| 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex06 – Diffusion / Influence        |
+| 28/04/2026 | sl08 – Social Graph Mining (M. Khayati)     | ex07 – Social Recommendation        |
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2 (90min)                       |
 | 12/05/2026 | sl10 – Network Models (P. C-Mauroux)        | ex08 – Social Graph Mining (60min)          |
 | 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Network Models (60min)               |
