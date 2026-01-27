@@ -8,8 +8,7 @@ title: SMA Course
 ---
 ## Overview
 
-In teams of 4 students, you will develop a tool to run analytics on large social networks. You will build upon 
-the the different algorithms introduced during the semester and/or other external sources. Examples of such analytics from recent projects include Reconstructing Neural Connectivity, Influence Analysis in Social Botnets, Spotify Artists Featuring Analysis, Collaborative Filtering on Yelp, Predicting Affluence in Montreal Bike Sharing, Community Detection Within
+In teams of 4 students, you will develop a tool to run analytics on large social networks. You will build upon the the different algorithms introduced during the semester and/or other external sources. Examples of such analytics from recent projects include Reconstructing Neural Connectivity, Influence Analysis in Social Botnets, Spotify Artists Featuring Analysis, Collaborative Filtering on Yelp, Predicting Affluence in Montreal Bike Sharing, Community Detection Within
 the Swiss Train Network, Unveiling Polarization and Sentiment Analysis on Reddit Discussions, Reddit Cryptocurrency Comments Analysis.  The tool should integrate the full pipeline of social data analysis from data collection and curation to data management. 
 
 > Each team should ideally contain four members. Exceptions need to be discussed with the lecturer.  
@@ -18,7 +17,8 @@ the Swiss Train Network, Unveiling Polarization and Sentiment Analysis on Reddit
 
 ## Architecture
 Your application should have a similar architecture:
-![architecture](./sma_architecture.png)
+![architecture](https://mkhayati.github.io/courses/sma/project/sma_architecture.png)
+
 
 ---
 ## Project Components
