@@ -64,9 +64,8 @@ Your task is to implement network measure algorithms to explore the network and 
 * Quality of your code 
 * Working demo of your tool
 * Quality of the report
-* Final grade: demo 1 (20%) + demo 2 (20%) + final presentation & report (60%) 
 
-> The members of the groups will be graded individually
+> Group members will be graded individually!
 
 ---
 
