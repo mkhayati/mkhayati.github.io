@@ -73,8 +73,8 @@ Your task is to implement network measure algorithms to explore the network and 
 
 Date | Task
 --- | ---
-05.03.2026 | `Deadline for submission`: group formation & project idea
-06.03.2026 | Placement test results announcement
+04.03.2026 | `Deadline for submission`: group formation & project idea
+05.03.2026 | Placement test results announcement
 10.03.2026 | Project plan presentations (during the lecture)
 24.03.2026 | `Check point`: v1 demo (during exercise)
 05.05.2026 | `Check point`: v2 demo (during exercise)
