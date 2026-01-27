@@ -12,21 +12,22 @@ In teams of 4 students, you will develop a tool to run analytics on large social
 the the different algorithms introduced during the semester and/or other external sources. Examples of such analytics from recent projects include Reconstructing Neural Connectivity, Influence Analysis in Social Botnets, Spotify Artists Featuring Analysis, Collaborative Filtering on Yelp, Predicting Affluence in Montreal Bike Sharing, Community Detection Within
 the Swiss Train Network, Unveiling Polarization and Sentiment Analysis on Reddit Discussions, Reddit Cryptocurrency Comments Analysis.  The tool should integrate the full pipeline of social data analysis from data collection and curation to data management. 
 
-> Each team should ideally contain four members. Exceptions need to be discussed with the lecturers.  
+> Each team should ideally contain four members. Exceptions need to be discussed with the lecturer.  
 
 ---
 
 ## Architecture
-Your application should have a similar architecture:![architecture](architecture.png)
+Your application should have a similar architecture:
 
+![architecture](sma_architecture.png)
 
 ---
 ## Project Components
 
 ### Network Loading
 
-
 Social networks capture data about entities, locations, dates, interactions, and more. This data can be obtained from various sources, including Snap, Network Repository, AMiner, Recommendation Repository, Gephi datasets, Newman networks, LibRec datasets, and Kaggle.
+
 Your task is to choose a network source suitable for your analysis and load it into your tool. Ensure the network size matches your analysis needs, a very large network may be rich in information but slow to analyze, while a very small network allows faster analysis but may limit result quality.
 
 
@@ -44,8 +45,8 @@ Network analytics helps uncover insights and patterns in networks. In this cours
 The main task here is to implement a network analytics algorithm to uncover interesting patterns
 and reveal key properties of a network’s behavior. You are encouraged to select from a wide range
 of algorithms you will study throughout the course, e.g., community detection, social mining, social
-recommendation, information diffusion, etc. The syllabus of the course can be useful in this regard.
-You can also implement a new interesting network analytics task, not covered in the course, that you
+recommendation, graph completion, information diffusion, etc. The syllabus of the course can be useful in this regard.
+You can also implement a new interesting analytics task, not covered in the course, that you
 deem relevant as a project idea (e.g., sentiment analysis, truth inference, etc.).
 
 
