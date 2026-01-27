@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: Awards 
-description: For what's worth, here is a list of awards and honours I received.
+description: For what's worth, here is a list of awards and honours I received!
 nav: true
 nav_order: 4
 ---
@@ -72,7 +72,7 @@ nav_order: 4
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Reproducibility Highlights Mention 
-        [<a href="https://vldb.org/pvldb/reproducibility/" style="color: #1a73e8;">link</a> | <a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a> ]
+        [<a href="https://vldb.org/pvldb/reproducibility/" style="color: #1a73e8;">link</a> | <a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a>]
       </li>
     </ul>
   </div>

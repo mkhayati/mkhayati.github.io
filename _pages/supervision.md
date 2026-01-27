@@ -2,7 +2,7 @@
 layout: page
 permalink: /supervision/
 title: Supervision
-description: A summary of the available projects and the theses I have supervised or co-supervised. I am also open to discussing other topics.
+description: A summary of the available thesis topics and the theses I have supervised. If you have other topics in mind, I am happy to discuss them.
 nav: true
 nav_order: 6
 ---
