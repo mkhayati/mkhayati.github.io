@@ -25,21 +25,21 @@ ninja.data = [{
           },
         },{id: "nav-awards",
           title: "Awards",
-          description: "For what&#39;s worth, here is a list of awards and honours I received.",
+          description: "For what&#39;s worth, here is a list of awards and honours I received!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awards/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "An overview of the courses I have been teaching.",
+          description: "An overview of the courses I have been teaching!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
         },{id: "nav-supervision",
           title: "Supervision",
-          description: "A summary of the available projects and the theses I have supervised or co-supervised. I am also open to discussing other topics.",
+          description: "A summary of the available thesis topics and the theses I have supervised. If you have other topics in mind, I am happy to discuss them.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/supervision/";
