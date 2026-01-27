@@ -57,7 +57,7 @@ The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)*
 
 ## Project
 
-As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. The project should include implementing social graph analytics from scratch and evaluating their performance in comparison with existing solutions (from the course, research literature, or other sources). The full project is described in this [page](https://mkhayati.github.io/courses/sma/project.md).
+As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. The project should include implementing social graph analytics from scratch and evaluating their performance in comparison with existing solutions (from the course, research literature, or other sources). The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
 
 ---
 
