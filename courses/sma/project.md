@@ -58,7 +58,7 @@ Your task is to implement network measure algorithms to explore the network and 
 
 ---
 
-### Evaluation Criteria
+## Evaluation Criteria
 * Originality of your project
 * Fulfillment of the general architecture
 * Quality of your code (structure, design, consistency, scalabilty, correctness, etc)
@@ -66,6 +66,8 @@ Your task is to implement network measure algorithms to explore the network and 
 * Quality of the report. Analysis of the efficiency, effectiveness, and the correctness of the implementations.
 
 > The members of the groups will be graded individually
+
+---
 
 ## Timeline
 
