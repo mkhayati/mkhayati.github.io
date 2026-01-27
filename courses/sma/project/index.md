@@ -8,7 +8,7 @@ title: SMA Course
 ---
 ## Overview
 
-In teams of 4 students, you will develop a tool to run analytics on large social networks. You will build upon the the different algorithms introduced during the semester and/or other external sources. Examples of such analytics from recent projects include Reconstructing Neural Connectivity, Influence Analysis in Social Botnets, Spotify Artists Featuring Analysis, Collaborative Filtering on Yelp, Predicting Affluence in Montreal Bike Sharing, Community Detection Within
+In teams of 4 students, you will develop a tool to run analytics on large social networks. You will build upon the different algorithms introduced in the course and/or other external sources. Examples of such analytics from recent projects include Reconstructing Neural Connectivity, Influence Analysis in Social Botnets, Spotify Artists Featuring Analysis, Collaborative Filtering on Yelp, Predicting Affluence in Montreal Bike Sharing, Community Detection Within
 the Swiss Train Network, Unveiling Polarization and Sentiment Analysis on Reddit Discussions, Reddit Cryptocurrency Comments Analysis.  The tool should integrate the full pipeline of social data analysis from data collection and curation to data management. 
 
 > Each team should ideally contain four members. Exceptions need to be discussed with the lecturer.  
@@ -32,7 +32,7 @@ Your task is to choose a network source suitable for your analysis and load it i
 
 ### Network Visualization
 
-Visualization tools help uncover and communicate patterns in network data. Effective visualizations highlight key findings by plotting data distributions, combining multiple analytical dimensions, or displaying algorithm outputs, such as discovered communities or information flow—to reveal hidden relationships and assess results.
+Visualization tools help uncover and communicate patterns in network data. Effective visualizations highlight key findings by plotting data distributions, combining multiple analytical dimensions, or displaying algorithm outputs, such as discovered communities or information flow, to reveal hidden relationships and assess results.
 
 Your task is to use visualization tools to explore your network, clarify your analysis, and emphasize the insights you want to present.
 
@@ -52,7 +52,7 @@ deem relevant as a project idea (e.g., sentiment analysis, truth inference, etc.
 ### Network Exploration
 
 
-Exploring interactions between nodes can reveal hidden patterns. Network measures help analyze these interactions to understand structural properties and node similarities. When choosing an exploration method, consider two factors: it should align with your analysis goals, e.g., centrality or similarity measures can reveal node influence and relationships—and it should be computationally feasible. For large networks, you may use a smaller simulated graph that preserves the original network’s properties.
+Exploring interactions between nodes can reveal hidden patterns. Network measures help analyze these interactions to understand structural properties and node similarities. When choosing an exploration method, consider two factors: it should align with your analysis goals, e.g., centrality or similarity measures can reveal node influence and relationships, and it should be computationally feasible. For large networks, you may use a smaller simulated graph that preserves the original network’s properties.
 
 Your task is to implement network measure algorithms to explore the network and uncover insights. Select measures suited to your analysis, and consider using a scaled-down graph if needed.
 
@@ -60,10 +60,10 @@ Your task is to implement network measure algorithms to explore the network and 
 
 ## Evaluation Criteria
 * Originality of your project
-* Fulfillment of the general architecture
-* Quality of your code (structure, design, consistency, scalabilty, correctness, etc)
+* Fulfillment of the architecture
+* Quality of your code 
 * Working demo of your tool
-* Quality of the report. Analysis of the efficiency, effectiveness, and the correctness of the implementations.
+* Quality of the report
 
 > The members of the groups will be graded individually
 
@@ -73,12 +73,13 @@ Your task is to implement network measure algorithms to explore the network and 
 
 Date | Task
 --- | ---
-06.03.2026 | **Deadline for submission**: team members & project idea
-10.03.2026 | Project plan presentations
-24.03.2026 | `Check point 1` v1 demo (during exercise)
-05.05.2026 | `Check point 2` v2 demo (during exercise)
-22.05.2026 | `**Deadline for submission**: report and code 
-26.15.2026 | Final presentations (during the course)
+05.03.2026 | `Deadline for submission`: group formation & project idea
+06.03.2026 | Placement test results announcement
+10.03.2026 | Project plan presentations (during the lecture)
+24.03.2026 | `Check point`: v1 demo (during exercise)
+05.05.2026 | `Check point`: v2 demo (during exercise)
+22.05.2026 | `Deadline for submission`: report and code 
+26.15.2026 | Final presentations (during the lecture)
 
 ---
 
