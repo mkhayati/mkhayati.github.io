@@ -71,8 +71,8 @@ As part of the course assessment, students must complete a semester-long project
 * **Lect 06:** Diffusion & Assortativity (Chapters 7 and 8 in book 1)
 * **Lect 07:** Social Recommendation (Chapter 9 in book 1)
 * **Lect 08:** Social Graph Mining (Chapter 5 in book 1)
-* **Lect 09:** Network Models (Chapter 4 in book 1)
-* **Lect 10:** Knowledge Graphs (Guest Lecture)
+* **Lect 09:** Knowledge Graphs (Guest Lecture)
+* **Lect 10:** Network Models (Chapter 4 in book 1)
 * **Lect 11:** Recap
 
 ---
