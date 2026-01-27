@@ -65,7 +65,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (22)*</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (24)*</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (5)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (5)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (4)</li>
