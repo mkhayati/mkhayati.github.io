@@ -20,7 +20,7 @@ nav_order: 6
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Unified Evaluation Metrics for Time Series Imputation.
       </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Federated Learning.
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Multimodal Federated Learning.
       </li>
     </ul>
   </div>
