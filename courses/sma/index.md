@@ -48,13 +48,15 @@ The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)*
 
 **Books**: The course will use the following textbook 
 
-- [B1] **Social Data Mining: An Introduction**, Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu, First edition, Cambridge University Press, 2014. [(link)](https://www.socialmediamining.info/SMM.pdf)
+- [B1] **Social Data Mining: An Introduction**, Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu, First edition, Cambridge University Press, 2014. (<a href="https://www.socialmediamining.info/SMM.pdf">link</a>)
 
 Additionally, we will use the following books in some lectures
 
-- [B2] **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020 [(link)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+- [B2] **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020 
+(<a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">link</a>)
 
-- [B3] **Network Science**, Albert-László Barabási, Cambridge university press, 2016  [(link)](https://networksciencebook.com)
+- [B3] **Network Science**, Albert-László Barabási, Cambridge university press, 2016 
+(<a href="https://networksciencebook.com">link</a>)
 
 ---
 
