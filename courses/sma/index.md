@@ -48,9 +48,9 @@ The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)*
 
 **Textbooks**: The course will use two textbooks (one primary and one secondary):
 
-- **Social Data Mining: An Introduction**, First edition, Cambridge University Press, 2014.  Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu. [(ebook)](https://www.socialmediamining.info/SMM.pdf)
+- [B1] **Social Data Mining: An Introduction**, First edition, Cambridge University Press, 2014.  Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu. [(ebook)](https://www.socialmediamining.info/SMM.pdf)
 
-- **Graph Representation Learning**, Synthesis Lectures on Artificial Intelligence and Machine Learning, 2020. William L. Hamilton. [(ebook)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+- [B2] **Graph Representation Learning**, Synthesis Lectures on Artificial Intelligence and Machine Learning, 2020. Morgan & Claypool Publishers [(ebook)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
  
 
 ---
