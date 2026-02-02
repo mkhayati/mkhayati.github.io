@@ -78,12 +78,12 @@ Students must document their design choices, methodological assumptions, and exp
 * **Lect 02:** Graph Management (Chap 2 in B1)
 * **Lect 03:** Network Measures (Chap 3 in B1)
 * **Lect 04:** Community Detection (Chap 6 in B1 and Chap 9 in B3)
-* **Lect 05:** Graph Completion (Parts I & II in B2)
+* **Lect 05:** Graph Completion (Part I in B2)
 * **Lect 06:** Diffusion & Assortativity (Chap 7 and 8 in B1)
 * **Lect 07:** Social Recommendation (Chap 9 in B1)
 * **Lect 08:** Social Graph Mining (Chap 5 in B1)
 * **Lect 09:** Knowledge Graphs (Guest Lecture)
-* **Lect 10:** Network Models (Chapter 4 in B1)
+* **Lect 10:** Network Models (Chap 4 in B1)
 * **Lect 11:** Recap
 
 ---
