@@ -60,7 +60,13 @@ Additionally, we will use the following books in some lectures
 
 ## Project
 
-As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. The project should include implementing social graph analytics from scratch and evaluating their performance in comparison with existing solutions (from the course, research literature, or other sources). The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
+As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. This pipeline should encompass all major stages of social media data processing, including data collection (e.g., via APIs, scraping, or provided datasets), data cleaning and preprocessing, data storage, analytical processing, and interactive visualization of the results. The final system should function as an integrated tool rather than a collection of disconnected components.
+
+A core requirement of the project is the implementation of social graph analytics from scratch. Students are expected to develop key graph-based methods, such as network construction, centrality measures, community detection, or diffusion analysis, without relying on high-level library implementations. These custom implementations must then be evaluated and benchmarked against existing solutions, which may include algorithms discussed in the course, methods from the research literature, or widely used external libraries. The evaluation should consider factors such as accuracy, scalability, computational efficiency, and practical usability.
+
+
+Students must document their design choices, methodological assumptions, and experimental results in a clear and well-structured report. The project will be assessed based on technical correctness, depth of analysis, originality, clarity of presentation, and the quality of the evaluation. The semester-long project constitutes 30% of the final course grade. The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
+
 
 ---
 
