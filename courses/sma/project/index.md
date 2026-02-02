@@ -75,12 +75,12 @@ Date | Task
 --- | ---
 04.03.2026 | `Deadline for submission`: group formation & project idea
 05.03.2026 | Placement test results announcement
-10.03.2026 | Project plan presentations (during the lecture)
-24.03.2026 | `Check point`: v1 demo (during exercise)
-05.05.2026 | `Check point`: v2 demo (during exercise)
+10.03.2026 | Project plan presentations (lecture session)
+24.03.2026 | `Check point`: v1 demo (exercise session)
+05.05.2026 | `Check point`: v2 demo (exercise session)
 22.05.2026 | `Deadline for submission`: report and code 
-26.05.2026 | Final presentations (during the lecture)
+26.05.2026 | Final presentations (lecture session)
 
 ---
 
-*The submission of artifacts should be on ILIAS.*
+*The submission of deliverables should be on ILIAS.*

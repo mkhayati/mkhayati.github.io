@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
- ImputeGAP v1.1.2 is out :gem: Checkout the new release (<a href="https://imputegap.readthedocs.io">link</a>)
+ ImputeGAP v1.1.2 is out :gem: Check out the new release (<a href="https://imputegap.readthedocs.io">link</a>)

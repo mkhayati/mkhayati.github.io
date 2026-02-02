@@ -40,7 +40,7 @@ nav_order: 6
        2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-supervised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (2023-now): Holistic Evaluation of Time Series Data Quality (On hold). Co-supervised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (on hold): Holistic Evaluation of Time Series Data Quality. Co-supervised with Philippe Cudré-Mauroux.
       </li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
@@ -52,7 +52,7 @@ nav_order: 6
         Maurice Amon: Time Series Imputation using Large Language Models.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flavien Buron: Extensive Comparison of Data Transformation Techniques for Graph Time Series Imputation.
+        Flavien Buron: Extensive Comparison of Data Transformation Techniques for Time Series Graph Imputation.
       </li>
     </ul>
   </div>
