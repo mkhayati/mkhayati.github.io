@@ -58,14 +58,16 @@ Additionally, we will use the following books in some lectures
 - [B3] **Network Science**, Albert-László Barabási, Cambridge university press, 2016 
 (<a href="https://networksciencebook.com">link</a>)
 
+- [B4] **Building Knowledge Graphs**, Jesus Barrasa and Jim Webber, O'Reilly Media, 2023 
+(<a href="https://go.neo4j.com/rs/710-RRC-335/images/Building-Knowledge-Graphs-Practitioner's-Guide-OReilly-book.pdf">link</a>)
+
 ---
 
 ## Project
 
-As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. This pipeline should encompass all major stages of social media data processing, including data collection (e.g., via APIs, scraping, or provided datasets), data cleaning and preprocessing, data storage, analytical processing, and interactive visualization of the results. The final system should function as an integrated tool rather than a collection of disconnected components.
+As part of the course assessment, students must complete a semester-long project. The general aim is to analyze a large social media dataset and uncover its underlying characteristics. Students must develop a tool that integrates the entire social data pipeline, from data collection through analytical visualization. This pipeline should include all major stages of social media data processing, including data collection (e.g., via APIs, scraping, or provided datasets), data cleaning and preprocessing, data storage, analytical processing, and interactive visualization of the results. The final system should function as an integrated tool rather than a collection of disconnected components.
 
-A core requirement of the project is the implementation of social graph analytics from scratch. Students are expected to develop key graph-based methods, such as network construction, centrality measures, community detection, or diffusion analysis, without relying on high-level library implementations. These custom implementations must then be evaluated and benchmarked against existing solutions, which may include algorithms discussed in the course, methods from the research literature, or widely used external libraries. The evaluation should consider factors such as accuracy, scalability, computational efficiency, and practical usability.
-
+A core requirement of the project is the implementation of social graph analytics from scratch. Students are expected to develop key graph-based methods without relying on high-level library implementations. These custom implementations must then be evaluated and benchmarked against existing solutions, which may include algorithms discussed in the course, methods from the research literature, or widely used external libraries. The evaluation should consider factors such as accuracy, scalability, computational efficiency, and practical usability.
 
 Students must document their design choices, methodological assumptions, and experimental results in a clear and well-structured report. The project will be assessed based on technical correctness, depth of analysis, originality, clarity of presentation, and the quality of the evaluation. The semester-long project constitutes 30% of the final course grade. The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
 
@@ -82,7 +84,7 @@ Students must document their design choices, methodological assumptions, and exp
 * **Lect 06:** Diffusion & Assortativity (Chap 7 and 8 in B1)
 * **Lect 07:** Social Recommendation (Chap 9 in B1)
 * **Lect 08:** Social Graph Mining (Chap 5 in B1)
-* **Lect 09:** Knowledge Graphs (Guest Lecture)
+* **Lect 09:** Knowledge Graphs (B4)
 * **Lect 10:** Network Models (Chap 4 in B1)
 * **Lect 11:** Recap
 
