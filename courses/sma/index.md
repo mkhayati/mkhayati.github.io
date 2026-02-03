@@ -43,10 +43,10 @@ Upon successful completion of this course, you will be able to:
 The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
 
-> The number of participants in the course will be limited to ensure adequate supervision for all projects. Only students who pass the placement test will be eligible to continue. The final list of participants will be communicated by March 6, 2026.
+> The number of participants in the course will be limited to ensure adequate supervision for all projects. Only students who pass the placement test will be eligible to continue. The list of admitted participants will be communicated on March 6, 2026.
 
 
-**Books**: The course will use the following textbook 
+**References**: The course will use the following textbook 
 
 - [B1] **Social Data Mining: An Introduction**, Reza Zafarani, Mohammad Ali Abbasi, and Huan Liu, First edition, Cambridge University Press, 2014. (<a href="https://www.socialmediamining.info/SMM.pdf">link</a>)
 
@@ -70,7 +70,6 @@ As part of the course assessment, students must complete a semester-long project
 A core requirement of the project is the implementation of social graph analytics from scratch. Students are expected to develop key graph-based methods without relying on high-level library implementations. These custom implementations must then be evaluated and benchmarked against existing solutions, which may include algorithms discussed in the course, methods from the research literature, or widely used external libraries. The evaluation should consider factors such as accuracy, scalability, computational efficiency, and practical usability.
 
 Students must document their design choices, methodological assumptions, and experimental results in a clear and well-structured report. The project will be assessed based on technical correctness, depth of analysis, originality, clarity of presentation, and the quality of the evaluation. The semester-long project constitutes 30% of the final course grade. The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
-
 
 ---
 
