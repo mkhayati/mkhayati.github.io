@@ -37,10 +37,10 @@ nav_order: 6
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
        <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Quentin Nater</a> (
-       2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-supervised with Philippe Cudré-Mauroux.
+       2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-advised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (on hold): Holistic Evaluation of Time Series Data Quality. Co-supervised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (on hold): Holistic Evaluation of Time Series Data Quality. Co-advised with Philippe Cudré-Mauroux.
       </li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
@@ -68,13 +68,13 @@ nav_order: 6
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-supervised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-advised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/ines-arous/" style="color: #1a73e8;">Ines Arous</a> (2022):  Human-AI Collaborative Approaches for Open-Ended Data Curation. <span class="font-weight-bold" style="color: #000000;">Dimitris N. Chorafas Award for Best Thesis in Computer Science</span>. Co-supervised with Philippe Cudré-Mauroux and Jie Yang.
+       <a href="https://exascale.info/members/ines-arous/" style="color: #1a73e8;">Ines Arous</a> (2022):  Human-AI Collaborative Approaches for Open-Ended Data Curation. <span class="font-weight-bold" style="color: #000000;">Dimitris N. Chorafas Award for Best Thesis in Computer Science</span>. Co-advised with Philippe Cudré-Mauroux and Jie Yang.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/artem-lutov" style="color: #1a73e8;">Artem Lutov</a> (2019):  Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation. Co-supervised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/artem-lutov" style="color: #1a73e8;">Artem Lutov</a> (2019):  Unsupervised and Parameter-Free Clustering of Large Graphs for Knowledge Exploration and Recommendation. Co-advised with Philippe Cudré-Mauroux.
       </li>
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
