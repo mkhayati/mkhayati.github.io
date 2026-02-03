@@ -58,8 +58,6 @@ Additionally, we will use the following books in some lectures
 - [B3] **Network Science**, Albert-László Barabási, Cambridge university press, 2016 
 (<a href="https://networksciencebook.com">link</a>)
 
-- [B4] **Building Knowledge Graphs**, Jesus Barrasa and Jim Webber, O'Reilly Media, 2023 
-(<a href="https://go.neo4j.com/rs/710-RRC-335/images/Building-Knowledge-Graphs-Practitioner's-Guide-OReilly-book.pdf">link</a>)
 
 ---
 
@@ -83,7 +81,7 @@ Students must document their design choices, methodological assumptions, and exp
 * **Lect 06:** Diffusion & Assortativity (Chap 7 and 8 in B1)
 * **Lect 07:** Social Recommendation (Chap 9 in B1)
 * **Lect 08:** Social Graph Mining (Chap 5 in B1)
-* **Lect 09:** Knowledge Graphs (B4)
+* **Lect 09:** Knowledge Graphs (open lecture)
 * **Lect 10:** Network Models (Chap 4 in B1)
 * **Lect 11:** Recap
 
