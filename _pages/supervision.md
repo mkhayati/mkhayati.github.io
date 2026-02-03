@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /supervision/
-title: Supervision
-description: A summary of the available thesis topics and the theses I have supervised. If you have other topics in mind, I am happy to discuss them.
+title: Student Supervision
+description: A summary of the available thesis topics and the students I have supervised. If you have other topics in mind, I am happy to discuss them.
 nav: true
 nav_order: 6
 ---
@@ -30,7 +30,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Current Theses</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Current Students</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
@@ -62,7 +62,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Completed Theses</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Graduate Students</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
