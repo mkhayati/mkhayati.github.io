@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>C433, Bd de Pérolles 90</p>
     <p>1700 Fribourg, Switzerland</p>
-    <p>E-mail: mourad.khayati [AT] unifr.ch</p>
+    <p>E-mail: mourad.khayati@unifr.ch</p>
     <p>Phone: +41 26 300 8460</p>
 
 
