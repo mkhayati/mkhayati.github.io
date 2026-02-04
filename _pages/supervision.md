@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /supervision/
-title: Student Supervision
-description: A summary of the available thesis topics and the students I have supervised. If you have other topics in mind, I am happy to discuss them.
+title: Supervision
+description: A summary of the students I have supervised and the available thesis topics. If you have other topics in mind, I am happy to discuss them.
 nav: true
 nav_order: 6
 ---
