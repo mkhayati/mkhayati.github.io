@@ -67,7 +67,9 @@ As part of the course assessment, students must complete a semester-long project
 
 A core requirement of the project is the implementation of social graph analytics from scratch. Students are expected to develop key graph-based methods without relying on high-level library implementations. These custom implementations must then be evaluated and benchmarked against existing solutions, which may include algorithms discussed in the course, methods from the research literature, or widely used external libraries. The evaluation should consider factors such as accuracy, scalability, computational efficiency, and practical usability.
 
-Students must document their design choices, methodological assumptions, and experimental results in a clear and well-structured report. The project will be assessed based on technical correctness, depth of analysis, originality, clarity of presentation, and the quality of the evaluation. The semester-long project constitutes 30% of the final course grade. The full project is described in this [page](https://mkhayati.github.io/courses/sma/project).
+Students must document their design choices, methodological assumptions, and experimental results in a clear and well-structured report. The project will be assessed based on technical correctness, depth of analysis, originality, clarity of presentation, and the quality of the evaluation. The semester-long project constitutes 30% of the final course grade. 
+
+The full description of the project can be found on this [page](https://mkhayati.github.io/courses/sma/project).
 
 ---
 
@@ -102,8 +104,8 @@ Students must document their design choices, methodological assumptions, and exp
 | 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex06 – Diffusion / Influence        |
 | 28/04/2026 | sl08 – Social Graph Mining (M. Khayati)     | ex07 – Social Recommendation        |
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2 (90min)                       |
-| 12/05/2026 | sl10 – Network Models (P. C-Mauroux)        | ex08 – Social Graph Mining (60min)          |
-| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Network Models (60min)               |
+| 12/05/2026 | sl10 – Network Models (P. C-Mauroux)        | ex08 – Social Graph Mining           |
+| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Network Models                |
 | 26/05/2026 | Project – Final Presentations (M. Khayati)                                                |
 
 > The schedule might slightly change depending on the availability of the lecturers.
