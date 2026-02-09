@@ -39,7 +39,7 @@ CIKM. He led international projects, including a H2020 project and an SNF/DFG co
 
 
 ## Selected Tools
-* <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://exascale.info/assets/pdf/khayati2025kdd.pdf">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">code</a>]
+* <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://dl.acm.org/doi/10.1145/3711896.3737601">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">code</a>]
 * <b>SEER </b>: Toolkit to Evaluate Time Series Database Systems [<a href="https://www.vldb.org/pvldb/vol17/p4361-khayati.pdf">PDF (pvldb'24)</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
 * <b>TSM-Bench</b>: Benchmark of Time Series DBs [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf">PDF (pvldb'23)</a> \| <a href="https://github.com/eXascaleInfolab/TSM-Bench">code</a> \|  <a href="https://github.com/eXascaleInfolab/TSM-Bench/tree/main/reproducibility">repro</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
 * <b>ORBITS</b>: Streaming Time Series Imputation [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf">PDF (pvldb'21) </a> \| <a href="https://github.com/eXascaleInfolab/orbits">code</a> \|  <a href="https://github.com/eXascaleInfolab/orbits_repro">repro</a> \| <a href="http://revival.exascale.info/streaming/datastream.php">GUI</a>]
