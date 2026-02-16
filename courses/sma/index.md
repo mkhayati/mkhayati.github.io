@@ -92,7 +92,7 @@ The full description of the project can be found on this [page](https://mkhayati
 
 | Date       | Lecture                                     | Exercises                                   |
 |:-----------|:--------------------------------------------|:--------------------------------------------|
-| 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples         |
+| 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples (90min)        |
 | 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Processing Tools       |
 | 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management             |
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                 |
