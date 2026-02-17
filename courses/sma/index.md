@@ -40,7 +40,7 @@ Upon successful completion of this course, you will be able to:
 
 **Teaching format**: This course consists of lectures and hands-on exercises/labs. The weekly/bi-weekly exercises are an important part of the learning process. Solving the exercises will be the best way to prepare for the final exam.
 
-The lectures take place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
+The course takes place **Tuesday 14:15–17:00** in room **E130 (UniFR, PER21)**. The lecture notes for the course will become available as we progress through the semester.
 
 
 > The number of participants in the course will be limited to ensure adequate supervision for all projects. Only students who pass the placement test will be eligible to continue. The list of admitted participants will be communicated on March 6, 2026.
