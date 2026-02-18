@@ -17,7 +17,7 @@ the Swiss Train Network, Unveiling Polarization and Sentiment Analysis on Reddit
 
 ## Architecture
 Your application should follow a similar architecture:
-![architecture](https://mkhayati.github.io/courses/sma/project/sma_architecture.png){: style="width:90%"}
+![architecture](https://mkhayati.github.io/courses/sma/project/sma_architecture.png){: style="width:100%"}
 
 
 ---
