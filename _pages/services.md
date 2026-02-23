@@ -4,7 +4,7 @@ permalink: /services/
 title: Services
 description: An overview of the scientific services I contributed to.
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 

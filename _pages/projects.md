@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A growing collection of the research projects I contributed to and was responsible of. 
 nav: true
-nav_order: 8
+nav_order: 7
 display_categories: [work]
 horizontal: false
 ---
