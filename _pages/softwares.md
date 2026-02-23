@@ -44,7 +44,7 @@ nav_order: 3
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Benchmark of Time Series Database Systems
-        [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf" style="color: #1a73e8;">PDF</a>, <a href="http://srv.exascale.info:12007" style="color: #1a73e8;">GUI</a>]
+        [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/seer" style="color: #1a73e8;">code</a>, <a href="http://srv.exascale.info:12007" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
   </div>
@@ -63,7 +63,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021 Reproducibility Highlights</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021 Reproducibility Highlights Mention</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Online Imputation for Time Series Streams
         [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/orbits" style="color: #1a73e8;">code</a>, <a href="http://revival.exascale.info/streaming/datastream.php" style="color: #1a73e8;">GUI</a>, <a href="https://vldb.org/pvldb/reproducibility" style="color: #1a73e8;">mention</a>]
@@ -87,7 +87,7 @@ nav_order: 3
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Explainable Evaluator for Time Series Anomaly Detection
-        [<a href="https://ieeexplore.ieee.org/document/9458746" style="color: #1a73e8;">PDF</a>, <a href="http://vadetis.exascale.info" style="color: #1a73e8;">GUI</a>]
+        [<a href="https://ieeexplore.ieee.org/document/9458746" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/vadetis" style="color: #1a73e8;">code</a>, <a href="http://vadetis.exascale.info" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
   </div>
@@ -130,7 +130,7 @@ nav_order: 3
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Time Series Imputation inside MonetDB
-        [<a href="https://ieeexplore.ieee.org/document/8731357" style="color: #1a73e8;">PDF</a>, <a href="http://revival.exascale.info/recovery/recovdb.php" style="color: #1a73e8;">GUI</a>]
+        [<a href="https://ieeexplore.ieee.org/document/8731357" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/2018-RecovDB" style="color: #1a73e8;">code</a>,<a href="http://revival.exascale.info/recovery/recovdb.php" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
   </div>
