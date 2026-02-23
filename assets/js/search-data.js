@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-softwares",
           title: "Softwares",
-          description: "An overview of the tools I have built together with my students over the years services.",
+          description: "An overview of the tools I have developed in collaboration with my students over the years.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/softwares/";
