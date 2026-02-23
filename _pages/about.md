@@ -37,7 +37,7 @@ data cleaning, missing values imputation, and time series data management.
 He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
 CIKM. He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. Over the years, he developed a number of time series tools, and actively participated in promoting reproducibility.
 
-
+<!--
 ## Selected Tools
 * <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://dl.acm.org/doi/10.1145/3711896.3737601">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">code</a>]
 * <b>SEER </b>: Toolkit to Evaluate Time Series Database Systems [<a href="https://www.vldb.org/pvldb/vol17/p4361-khayati.pdf">PDF (pvldb'24)</a> \| <a href="http://srv.exascale.info:12007">GUI</a>]
@@ -46,3 +46,4 @@ CIKM. He led international projects, including a H2020 project and an SNF/DFG co
 * <b>VADETIS</b>: Explainable Evaluator for Anomaly Detection [<a href="https://ieeexplore.ieee.org/document/9458746">PDF (icde'21)</a> \| <a href="https://github.com/eXascaleInfolab/vadetis">code</a> \| <a href="http://vadetis.exascale.info">GUI</a>]
 * <b>ImputeBench</b>: Time Series Imputation Benchmark  [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf">PDF (pvldb'20)</a> \| <a href="https://github.com/eXascaleInfolab/bench-vldb20">code</a>  \|  <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award">repro</a>]
 * <b>RecovDB</b>: Time Series Repair inside MonetDB [<a href="https://ieeexplore.ieee.org/document/8731357">PDF (icde'19)</a> \| <a href="https://github.com/eXascaleInfolab/2018-RecovDB">code</a> \| <a href="http://revival.exascale.info/recovery/recovdb.php">GUI</a>]
+-->
