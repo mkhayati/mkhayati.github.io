@@ -4,7 +4,7 @@ permalink: /supervision/
 title: Supervision
 description: A summary of the students I have supervised and the available thesis topics. If you have other topics in mind, I am happy to discuss them.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
