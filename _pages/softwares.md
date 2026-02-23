@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /services/
-title: Services
-description: An overview of the scientific services I contributed to.
+permalink: /softwares/
+title: Softwares
+description: An overview of the tools I have built over the years services I contributed to.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 

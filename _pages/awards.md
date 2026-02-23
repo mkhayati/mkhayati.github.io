@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards 
 description: For what's worth, here is a list of awards and honours I received!
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
