@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-softwares",
           title: "Softwares",
-          description: "An overview of the tools I have built over the years services I contributed to.",
+          description: "An overview of the tools I have built together with my students over the years services.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/softwares/";
@@ -445,7 +445,7 @@ ninja.data = [{
           title: 'I will serve as Area Chair for KDD 2026 (Cycle 1 &amp;amp;amp; 2)....',
           description: "",
           section: "News",},{id: "news-imputegap-v1-1-2-is-out-check-out-the-new-release-code-medium",
-          title: 'ImputeGAP v1.1.2 is out! Check out the new release (code, Medium)',
+          title: 'ImputeGAP v1.1.2 is out! Check out the new release (Code, Medium)',
           description: "",
           section: "News",},{id: "projects-fashionbrain",
           title: 'FashionBrain',
