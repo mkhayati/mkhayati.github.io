@@ -37,6 +37,8 @@ data cleaning, missing values imputation, and time series data management.
 He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
 CIKM. He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. Over the years, he developed a number of time series tools, and actively participated in promoting reproducibility.
 
+He recently received the Outstanding PC Award at KDD 2025. His ImputeBench work received the Best Experiments and Analysis Award at VLDB 2020, and his ORBITS algorithm received a mention in the VLDB 2021 Reproducibility Highlights.
+
 <!--
 ## Selected Tools
 * <b>ImputeGAP</b>: A Python Library for Time Series Imputation [<a href="https://dl.acm.org/doi/10.1145/3711896.3737601">PDF (kdd'25)</a>  \| <a href="https://imputegap.readthedocs.io">code</a>]
