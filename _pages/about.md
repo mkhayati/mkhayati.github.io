@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>C433, Bd de Pérolles 90</p>
     <p>1700 Fribourg, Switzerland</p>
-    <p>E-mail: mourad.khayati@unifr.ch</p>
-    <p>Phone: +41 26 300 8460</p>
+    <p>mourad.khayati@unifr.ch</p>
+    <p>+41 26 300 8460</p>
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -33,12 +33,13 @@ Mourad Khayati is a Senior Lecturer at the Department of Computer Science of the
 He obtained his PhD from the <a href="http://www.ifi.uzh.ch/dbtg/">University of Zurich</a>, Switzerland, under the supervision of <a href="http://www.ifi.uzh.ch/dbtg/Staff/Boehlen.html">Prof. Michael B&ouml;hlen</a>. 
 
 His research interests lie in the field of Time Series analytics, with a special focus on
-data cleaning, missing values imputation, and time series data management. He recently received the Outstanding PC Award at KDD 2025. His ImputeBench framework received the Best Experiments and Analysis Award at VLDB 2020, and his ORBITS streaming algorithm for time series imputation received a mention in the VLDB 2021 Reproducibility Highlights.
+data cleaning, missing values imputation, and time series data management. He recently received the Outstanding PC Award at KDD 2025. Over the years, he developed a number of time series tools, and actively participated in promoting reproducibility.
+His ImputeBench framework received the Best Experiments and Analysis Award at VLDB 2020, and his ORBITS streaming algorithm for time series imputation received a mention in the VLDB 2021 Reproducibility Highlights.
 
 He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
-CIKM. 
+CIKM. He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. 
 
-He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin. Over the years, he developed a number of time series tools, and actively participated in promoting reproducibility. If you are interested in collaborating on time series analtics, data cleaning or multimodal data fusion, don't hesitate to get in touch.
+If you are interested in collaborating on time series analytics, data cleaning or multimodal data fusion, please don't hesitate to get in touch. I am also open to supervise thesis projects around those topics.
 
 
 
