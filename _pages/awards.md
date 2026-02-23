@@ -16,11 +16,11 @@ nav_order: 4
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" 
               style="background-color: #b509ac; color: #ffffff;">
-            KDD
+            KDD 2025
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">KDD 2025</h6>
+<!---    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">KDD 2025</h6> -->
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Top 10% reviewers 
         [<a href="https://kdd2025.kdd.org/research-track-program-committee/" style="color: #1a73e8;">link</a>]
