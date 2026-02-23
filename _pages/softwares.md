@@ -2,7 +2,7 @@
 layout: page
 permalink: /softwares/
 title: Softwares
-description: An overview of the tools I have built together with my students over the years services.
+description: An overview of the tools I have developed in collaboration with my students over the years.
 nav: true
 nav_order: 3
 ---
@@ -63,6 +63,7 @@ nav_order: 3
         </span>
       </div>
     </div>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021 Reproducibility Highlights</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Online Imputation for Time Series Streams
         [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/orbits" style="color: #1a73e8;">code</a>, <a href="http://revival.exascale.info/streaming/datastream.php" style="color: #1a73e8;">GUI</a>, <a href="https://vldb.org/pvldb/reproducibility" style="color: #1a73e8;">mention</a>]
@@ -105,6 +106,7 @@ nav_order: 3
         </span>
       </div>
     </div>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2020 Best Experiments and Analysis Award</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Benchmark for Time Series Imputation Algorithms
         [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/bench-vldb20" style="color: #1a73e8;">code</a>, <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award" style="color: #1a73e8;">award</a> ]
