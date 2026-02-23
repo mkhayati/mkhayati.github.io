@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /softwares/
-title: A non exhaustive list of the tools I contributed to build over the years. 
-description: The 
+title: Softwares 
+description: A non exhaustive list of the tools I contributed to build over the years.
 nav: true
 nav_order: 3
 ---
