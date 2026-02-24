@@ -39,8 +39,7 @@ His ImputeBench framework received the Best Experiments and Analysis Award at VL
 He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He recently received the Outstanding PC Award from KDD 2025. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
 CIKM. He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin (Germany). 
 
-If you are interested in collaborating on time series analytics, data cleaning or multimodal data fusion, please don't hesitate to get in touch. I am also open to supervise thesis projects around those topics.
-
+If you are interested in collaborating on time series analytics, data cleaning or multimodal data fusion, please don't hesitate to get in touch. Students who would like to pursue a thesis in any of these topics are also encouraged to reach out.
 
 
 <!--
