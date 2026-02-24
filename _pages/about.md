@@ -36,7 +36,7 @@ His research interests lie in the field of Time Series analytics, with a special
 data cleaning, missing values imputation, and time series data management. Over the years, he developed a number of time series tools, and actively participated in promoting reproducibility.
 His ImputeBench framework received the Best Experiments and Analysis Award at VLDB 2020, and his ORBITS streaming algorithm for time series imputation received a mention at the VLDB 2021 Reproducibility Highlights.
 
-He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He recently received the Outstanding PC Award at KDD 2025. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
+He regularly serves in the review boards of data engineering and database venues, including the VLDB Journal, TKDE, KDD, and EDBT. He recently received the Outstanding PC Award from KDD 2025. He has served as a Senior Program Committee member for KDD 2026 and 2025, and CIKM 2020, and has mentored PhD students at several conferences, such as EDBT and
 CIKM. He led international projects, including a H2020 project and an SNF/DFG collaboration with TU Berlin (Germany). 
 
 If you are interested in collaborating on time series analytics, data cleaning or multimodal data fusion, please don't hesitate to get in touch. I am also open to supervise thesis projects around those topics.
