@@ -43,7 +43,7 @@ nav_order: 3
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Benchmark of Time Series Database Systems
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Benchmark for Time Series Database Systems (TSDBs)
         [<a href="https://www.vldb.org/pvldb/vol16/p3363-khelifati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/seer" style="color: #1a73e8;">code</a>, <a href="http://srv.exascale.info:12007" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
