@@ -65,7 +65,7 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021: Reproducibility Highlights Mention</h6>
+    <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2021: Reproducibility Highlights Special Mention</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Online Imputation for Time Series Streams
         [<a href="http://www.vldb.org/pvldb/vol14/p294-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/orbits" style="color: #1a73e8;">code</a>, <a href="http://revival.exascale.info/streaming/datastream.php" style="color: #1a73e8;">GUI</a>, <a href="https://vldb.org/pvldb/reproducibility" style="color: #1a73e8;">mention</a>]
