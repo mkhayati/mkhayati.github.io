@@ -112,7 +112,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">VLDB 2020: Best Experiments and Analysis Award</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Benchmark for Time Series Imputation Algorithms
-        [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/bench-vldb20" style="color: #1a73e8;">code</a>, <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award" style="color: #1a73e8;">award</a> ]
+        [<a href="http://www.vldb.org/pvldb/vol13/p768-khayati.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/bench-vldb20" style="color: #1a73e8;">code</a>, <a href="https://vldb2020.org/vldb-2020-awards.html#most-reproducible-paper-award" style="color: #1a73e8;">award</a>]
       </li>
     </ul>
   </div>
@@ -134,7 +134,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">ICDE 2019</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Time Series Imputation inside MonetDB
-        [<a href="https://ieeexplore.ieee.org/document/8731357" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/2018-RecovDB" style="color: #1a73e8;">code</a>,<a href="http://revival.exascale.info/recovery/recovdb.php" style="color: #1a73e8;">GUI</a>]
+        [<a href="https://ieeexplore.ieee.org/document/8731357" style="color: #1a73e8;">PDF</a>, <a href="https://github.com/eXascaleInfolab/2018-RecovDB" style="color: #1a73e8;">code</a>, <a href="http://revival.exascale.info/recovery/recovdb.php" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
   </div>
