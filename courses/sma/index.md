@@ -97,7 +97,7 @@ The full description of the project can be found on this [page](https://mkhayati
 | 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management             |
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                 |
 | 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures             |
-| 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point 1 (90min)                       |
+| 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point                       |
 | 31/03/2026 | sl05 – Graph Completion (M. Mondal)         | ex04 – Community Detection			 |
 | 07/04/2026 | Easter Holidays                                                                           |
 | 14/04/2026 | sl06 – Diffusion / Influence (P. C-Mauroux) | ex05 – Graph Completion             |
