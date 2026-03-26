@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will give an invited talk at the DSDS event at ICDE 2026 (<a href="https://icde2026.github.io">link</a>). 
+I will be giving an invited talk on Multimodal Pipelines for Time Series Cleaning at the DSDS event at ICDE 2026 (<a href="https://icde2026.github.io">link</a>). 
