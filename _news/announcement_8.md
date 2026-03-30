@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Interview
+title: Invited speaker
 date: 2026-03-25 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be a guest speaker at the Sustainable Data Systems Meet Data Science (DSDS) event at ICDE 2026 (<a href="https://icde2026.github.io">link</a>). 
+I will give a guest talk on "Multimodal Pipelines for Time Series Cleaning" at the ICDE DSDS workshop 2026 (<a href="https://icde2026.github.io/workshops.html">link</a>). 
