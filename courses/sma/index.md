@@ -79,12 +79,12 @@ The full description of the project can be found on this [page](https://mkhayati
 * **Lect 02:** Graph Management (Chap 2 in B1)
 * **Lect 03:** Network Measures (Chap 3 in B1)
 * **Lect 04:** Community Detection (Chap 6 in B1 and Chap 9 in B3)
-* **Lect 05:** Graph Completion (Part I in B2)
-* **Lect 06:** Diffusion & Assortativity (Chap 7 and 8 in B1)
+* **Lect 05:** Diffusion & Assortativity (Chap 7 and 8 in B1)
+* **Lect 06:** Network Models (Chap 4 in B1)
 * **Lect 07:** Social Recommendation (Chap 9 in B1)
-* **Lect 08:** Social Graph Mining (Chap 5 in B1)
+* **Lect 08:** Graph Completion (Part I in B2)
 * **Lect 09:** Knowledge Graphs (open lecture)
-* **Lect 10:** Network Models (Chap 4 in B1)
+* **Lect 10:** Social Graph Mining (Chap 5 in B1)
 * **Lect 11:** Recap
 
 ---
@@ -100,12 +100,12 @@ The full description of the project can be found on this [page](https://mkhayati
 | 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point                       			|
 | 31/03/2026 | sl05 – Diffusion (P. C-Mauroux) 			   | No lab			 							|
 | 07/04/2026 | Easter Holidays                                                                          |
-| 14/04/2026 | sl06 - Graph Completion (M. Mondal) 		   | ex04 – Community Detection/ ex05 - Diffusion|
-| 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex06 – Graph Completion  	        		|
-| 28/04/2026 | sl08 – Social Graph Mining (M. Khayati)     | ex07 – Social Recommendation        		|
+| 14/04/2026 | sl06 – Network Models (P. C-Mauroux) 	   | ex04 – Community Detection/ ex05 - Diffusion|
+| 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex05 – Network models  	        		|
+| 28/04/2026 | sl08 - Graph Completion (M. Mondal)   	   | ex06 – Social Recommendation        		|
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2 (90min)                      |
-| 12/05/2026 | sl10 – Network Models (P. C-Mauroux)        | ex08 – Social Graph Mining          		|
-| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Network Models                		|
+| 12/05/2026 | sl10 – Social Graph Mining (M. Khayati)     | ex07 – Graph Completion          			|
+| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex08 – Social Graph Mining               	|
 | 26/05/2026 | Project – Final Presentations (M. Khayati)                                               |
 
 > The schedule might slightly change depending on the availability of the lecturers.
