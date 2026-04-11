@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a guest talk on "Multimodal Pipelines for Time Series Cleaning" at the ICDE DSDS workshop 2026 (<a href="https://icde2026.github.io/workshops.html">link</a>). 
+I will give a guest talk on "Multimodal Pipelines for Time Series Cleaning" at the ICDE DSDS workshop 2026 (<a href="https://sites.google.com/view/dsds26">link</a>). 
