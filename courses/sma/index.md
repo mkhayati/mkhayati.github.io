@@ -80,11 +80,11 @@ The full description of the project can be found on this [page](https://mkhayati
 * **Lect 03:** Network Measures (Chap 3 in B1)
 * **Lect 04:** Community Detection (Chap 6 in B1 and Chap 9 in B3)
 * **Lect 05:** Network Models (Chap 4 in B1)
-* **Lect 06:** Diffusion & Assortativity (Chap 7 and 8 in B1)
-* **Lect 07:** Social Recommendation (Chap 9 in B1)
-* **Lect 08:** Graph Completion (Part I in B2)
-* **Lect 09:** Knowledge Graphs (open lecture)
-* **Lect 10:** Social Graph Mining (Chap 5 in B1)
+* **Lect 06:** Social Recommendation (Chap 9 in B1)
+* **Lect 07:** Graph Completion (Part I in B2)
+* **Lect 08:** Knowledge Graphs (open lecture)
+* **Lect 09:** Social Graph Mining (Chap 5 in B1)
+* **Lect 10:** Diffusion & Assortativity (Chap 7 and 8 in B1)
 * **Lect 11:** Recap
 
 ---
