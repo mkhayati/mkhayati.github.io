@@ -94,18 +94,18 @@ The full description of the project can be found on this [page](https://mkhayati
 |:-----------|:--------------------------------------------|:-------------------------------------------|
 | 17/02/2026 | sl01 – Intro and SMA Basics (M. Khayati)    | Intro Projects and Examples (90min)        |
 | 24/02/2026 | sl02 – Graph Management (M. Khayati)        | ex01 – Graph Processing Tools       		|
-| 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management            		| 
+| 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management            		|
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                |
 | 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures             		|
 | 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point                       			|
-| 31/03/2026 | sl05 – Network Models (P. C-Mauroux) 	   | No lab: project discussion among team members	|
+| 31/03/2026 | sl05 – Network Models (P. C-Mauroux) 	   | No lab: project discussion 				|
 | 07/04/2026 | Easter Holidays                                                                          |
-| 14/04/2026 | sl06 – Diffusion (P. C-Mauroux) 	   		   | ex04 – Community Detection/ ex05 - Network Models|
-| 21/04/2026 | sl07 – Social Recommendation (J. Audiffren) | ex06 – Diffusion 	        				|
-| 28/04/2026 | sl08 - Graph Completion (M. Mondal)   	   | ex07 – Social Recommendation        		|
-| 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2 (90min)                      |
-| 12/05/2026 | sl10 – Social Graph Mining (M. Khayati)     | ex08 – Graph Completion          			|
-| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Social Graph Mining               	|
+| 14/04/2026 | sl06 –  Social Recommendation (J. Audiffren)| ex04 – Community Detection/ ex05 - Network Models|
+| 21/04/2026 | sl07 – Graph Completion (M. Mondal) 		   | ex06 – Social Recommendation 	            |
+| 28/04/2026 | sl08 - Social Graph Mining (M. Khayati)     | ex07 –   Graph Completion      		    |
+| 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2                              |
+| 12/05/2026 | sl10 – Diffusion (P. C-Mauroux)     		   | ex08 – Social Graph Mining          		|
+| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Diffusion               	        |
 | 26/05/2026 | Project – Final Presentations (M. Khayati)                                               |
 
 > The schedule might slightly change depending on the availability of the lecturers.
