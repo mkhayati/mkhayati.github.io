@@ -100,7 +100,7 @@ The full description of the project can be found on this [page](https://mkhayati
 | 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point                       			|
 | 31/03/2026 | sl05 – Network Models (P. C-Mauroux) 	   | No lab: project discussion 				|
 | 07/04/2026 | Easter Holidays                                                                          |
-| 14/04/2026 | sl06 –  Social Recommendation (J. Audiffren)| ex04 – Community Detection|
+| 14/04/2026 | sl06 –  Social Recommendation (J. Audiffren)| ex04 – Community Detection					|
 | 21/04/2026 | sl07 – Graph Completion (M. Mondal) 		   | ex05 - Network Models/ ex06 – Social Recommendation 	            |
 | 28/04/2026 | sl08 - Social Graph Mining (M. Khayati)     | ex07 –   Graph Completion      		    |
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2                              |
