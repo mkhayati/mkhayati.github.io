@@ -82,8 +82,8 @@ The full description of the project can be found on this [page](https://mkhayati
 * **Lect 05:** Network Models (Chap 4 in B1)
 * **Lect 06:** Social Recommendation (Chap 9 in B1)
 * **Lect 07:** Graph Completion (Part I in B2)
-* **Lect 08:** Knowledge Graphs (open lecture)
-* **Lect 09:** Social Graph Mining (Chap 5 in B1)
+* **Lect 08:** Social Graph Mining (Chap 5 in B1)
+* **Lect 09:** Knowledge Graphs (open lecture)
 * **Lect 10:** Diffusion & Assortativity (Chap 7 and 8 in B1)
 * **Lect 11:** Recap
 
@@ -104,8 +104,8 @@ The full description of the project can be found on this [page](https://mkhayati
 | 21/04/2026 | sl07 – Graph Completion (M. Mondal) 		   | ex06 – Social Recommendation 	            |
 | 28/04/2026 | sl08 - Social Graph Mining (M. Khayati)     | ex07 –   Graph Completion      		    |
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2                              |
-| 12/05/2026 | sl10 – Diffusion (P. C-Mauroux)     		   | ex08 – Social Graph Mining          		|
-| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Diffusion               	        |
+| 12/05/2026 | sl10 – Diffusion & Assortativity (P. C-Mauroux)     		   | ex08 – Social Graph Mining          		|
+| 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Diffusion  & Assortativity             	        |
 | 26/05/2026 | Project – Final Presentations (M. Khayati)                                               |
 
 > The schedule might slightly change depending on the availability of the lecturers.
