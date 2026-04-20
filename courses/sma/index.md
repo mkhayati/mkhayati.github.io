@@ -97,12 +97,12 @@ The full description of the project can be found on this [page](https://mkhayati
 | 03/03/2026 | sl03 – Network Measures (M. Khayati)        | ex02 – Graph Management            		|
 | 10/03/2026 | Project – Idea Presentations (M. Khayati)                                                |
 | 17/03/2026 | sl04 – Community Detection / 1 (M. Khayati) | ex03 – Network Measures             		|
-| 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point                       			|
+| 24/03/2026 | sl04 – Community Detection / 2 (M. Khayati) | Check point 1                       		|
 | 31/03/2026 | sl05 – Network Models (P. C-Mauroux) 	   | No lab: project discussion 				|
 | 07/04/2026 | Easter Holidays                                                                          |
 | 14/04/2026 | sl06 –  Social Recommendation (J. Audiffren)| ex04 – Community Detection					|
-| 21/04/2026 | sl07 – Graph Completion (M. Mondal) 		   | ex05 - Network Models/ ex06 – Social Recommendation 	            |
-| 28/04/2026 | sl08 - Social Graph Mining (M. Khayati)     | ex07 –   Graph Completion      		    |
+| 21/04/2026 | sl07 – Graph Completion (M. Mondal) 		   | ex05 – Social Recommendation 	            |
+| 28/04/2026 | sl08 - Social Graph Mining (M. Khayati)     | ex06 - Network Models/ex07 – Graph Completion      		    |
 | 05/05/2026 | sl09 – Knowledge Graphs (Guest)             | Check point 2                              |
 | 12/05/2026 | sl10 – Diffusion & Assortativity (P. C-Mauroux)     		   | ex08 – Social Graph Mining          		|
 | 19/05/2026 | sl11 – Recap (M. Khayati)                   | ex09 – Diffusion  & Assortativity             	        |
