@@ -16,6 +16,8 @@ nav_order: 7
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Implementing Data Repair into Vector Databases.
+      </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Extending ImputeGAP Library with Deep Learning Techniques.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Integrating AutoML Model Selection into ImputeGAP.
