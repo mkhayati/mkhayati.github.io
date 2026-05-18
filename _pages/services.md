@@ -134,7 +134,7 @@ nav_order: 4
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
-            Panelist
+            Member
         </span>
       </div>
     </div>
