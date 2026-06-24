@@ -5,9 +5,9 @@ title: DS Seminar
 
 # Data Science Seminar: Time Series Imputation
 
-**Lecturer:** [Mourad Khayati](http://exascale.info/members/mkhayati)  
-**Teaching Assistant:** [Quentin Nater](https://exascale.info/members/quentin-nater/)  
-**Level:** Master (5 ECTS), Fall 2025  
+**Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
+**Teaching Assistant:** Quentin Nater 
+**Level:** Master (5 ECTS), Fall 2026  
 **Location:** Fribourg 
 
 ---
@@ -44,7 +44,7 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 * Write the [report](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)
 * Prepare the [presentation](http://www.matt.might.net/articles/academic-presentation-tips/)
 
-> Attendance is mandatory for the two-class seminar sessions. The total number of participants is limited to 20.
+> Attendance is mandatory for the two-class seminar sessions. The total number of participants is limited to 10. Students need to write a motivation letter to describe their background and they explain the reason for choosing this seminar.
 
 ---
 
@@ -52,40 +52,36 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 **Kickoff Meeting** 
 
-Organization of the seminar: *Tue, 23.09.2025, 14:15–16:00* — Room E230
+Organization of the seminar: *Tue, 22.09.2026, 14:15–16:00* — Room TBA
 
 **Introduction Seminar Material** 
 
-Library introduction and paper assignment: *Tue, 07.10.2025, 14:15–16:00* — Room C421
+Library introduction and paper assignment: *Tue, 29.09.2026, 14:15–16:00* — Room TBA
 
 **First Presentation Session** 
 
-Report deadline of Batch 1: *Tue, 11.11.2025*
+Report deadline of Batch 1: *Tue, 10.11.2026*
 
-Office meeting with students from Batch 1: *Tue, 18.11.2025 (all day)* — Room C433
+Office meeting with students from Batch 1: *Tue, 17.11.2026 (all day)* — Room C433
 
-Presentations of Batch 1: *Tue, 25.11.2025, 14:15–19:00* — Room PER17, 001
+Presentations of Batch 1: *Tue, 24.11.2026, 14:15–19:00* — Room TBA
 
 
 **Second Presentation Session** 
 
-Report deadline for Batch 2: Tue, 25.11.2025
+Report deadline for Batch 2: Tue, 24.11.2026
 
-Office meeting with students from Batch 2: *Tue, 02.12.2025 (all day)* — Room C433
+Office meeting with students from Batch 2: *Tue, 01.12.2026 (all day)* — Room C433
 
-Presentations of Batch 2: *Tue, 09.12.2025, 14:15–19:00* — Room PER17, 001
-
-
-**Deadline Final Report**
-
-*Tue, 13.01.2026*
+Presentations of Batch 2: *Tue, 08.12.2026, 14:15–19:00* — TBA
 
 
-**Code Inspection**
+**Final Deliverables**
 
-*Tue, 20.01.2026 (all day)* — Room C433
+Final Report: *Tue, 12.01.2027*
 
-*Tue, 27.01.2026 (all day)* — Room C433
+Code Inspection: *Tue, 19.01.2027 (all day)* — Room C433
+
 
 
 ---
@@ -96,20 +92,19 @@ Papers are distributed on a first-come, first-served basis.
 
 | Presenter     	  		| Date       | Paper  	|
 | --------      	  		| --------   | -------- |
-| Volodymyr Kachuriak 		| 25.11.2025 | SAITS: Self-attention-based imputation for time series, ESWA’23 |
-| Sinthuja Vijayananthan    | 25.11.2025 | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
-| Daksh Patel 			    | 25.11.2025 | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
-| Nicolas Wyss    			| 25.11.2025 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
-| Carla Malo			    | 25.11.2025 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
-| Jue Wang				    | 25.11.2025 | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
-| Emma Chambers			    | 09.12.2025 | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
-| Alejandro Nardo González  | 09.12.2025 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24 *(no repro)* |
-| Sebastian Käslin		    | 09.12.2025 | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
-| Sanika Deore			    | 09.12.2025 | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 *(no repro)* |
-| Flaminia Trinica		    | 09.12.2025 | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
-| Alba Adili 			    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)* |
-| Ghulam Hussain Wabil	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 *(no repro)* |
+|  		| 25.11.2025 | SAITS: Self-attention-based imputation for time series, ESWA’23 |
+| 	    | 25.11.2025 | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
+| 	    | 25.11.2025 | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
+|  		| 25.11.2025 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
+| 	    | 25.11.2025 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
+| 	    | 25.11.2025 | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
+| 	    | 09.12.2025 | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
+| 		| 09.12.2025 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24  |
+| 	    | 09.12.2025 | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
+| 	    | 09.12.2025 | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 |
+| 	    | 09.12.2025 | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
+| 	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
+| 	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
 
 
 
-> *Papers marked with **(no repro)** are exempt from the reproducibility task.*
