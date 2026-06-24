@@ -5,7 +5,7 @@ title: DS Seminar
 
 # Data Science Seminar: Time Series Imputation
 
-**Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
+**Lecturer:** [Mourad Khayati](https://mkhayati.github.io)
 **Teaching Assistant:** Quentin Nater 
 **Level:** Master (5 ECTS), Fall 2026  
 **Location:** Fribourg 
@@ -44,7 +44,7 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 * Write the [report](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)
 * Prepare the [presentation](http://www.matt.might.net/articles/academic-presentation-tips/)
 
-> Attendance is mandatory for the two-class seminar sessions. The total number of participants is limited to 10. Students need to write a motivation letter to describe their background and they explain the reason for choosing this seminar.
+> Attendance at both seminar sessions is mandatory. Due to high demand, participation is limited to a maximum of 10 participants. Students interested in joining the seminar must submit a motivation letter outlining their academic background and explaining their reasons for selecting this seminar.
 
 ---
 
