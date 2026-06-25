@@ -63,7 +63,7 @@ Report deadline of Batch 1: *Tue, 10.11.2026*
 
 Office meeting with students from Batch 1: *Tue, 17.11.2026 (all day)* — Room C433
 
-Presentations of Batch 1: *Tue, 24.11.2026, 14:15–19:00* — Room TBA
+Presentations of Batch 1: *Tue, 24.11.2026, 14:15–18:00* — Room TBA
 
 
 **Second Presentation Session** 
@@ -72,7 +72,7 @@ Report deadline for Batch 2: Tue, 24.11.2026
 
 Office meeting with students from Batch 2: *Tue, 01.12.2026 (all day)* — Room C433
 
-Presentations of Batch 2: *Tue, 08.12.2026, 14:15–19:00* — TBA
+Presentations of Batch 2: *Tue, 08.12.2026, 14:15–18:00* — TBA
 
 
 **Final Deliverables**
@@ -91,19 +91,19 @@ Papers are distributed on a first-come, first-served basis.
 
 | Presenter     	  		| Date       | Paper  	|
 | --------      	  		| --------   | -------- |
-|  		| 25.11.2025 | SAITS: Self-attention-based imputation for time series, ESWA’23 |
-| 	    | 25.11.2025 | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
-| 	    | 25.11.2025 | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
-|  		| 25.11.2025 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
-| 	    | 25.11.2025 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
-| 	    | 25.11.2025 | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
-| 	    | 09.12.2025 | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
-| 		| 09.12.2025 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24  |
-| 	    | 09.12.2025 | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
-| 	    | 09.12.2025 | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 |
-| 	    | 09.12.2025 | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
-| 	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
-| 	    | 09.12.2025 | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
+|  		|  | SAITS: Self-attention-based imputation for time series, ESWA’23 |
+| 	    |  | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
+| 	    |  | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
+|  		|  | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
+| 	    |  | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
+| 	    |  | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
+| 	    |  | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
+| 		|  | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24  |
+| 	    |  | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
+| 	    |  | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 |
+| 	    |  | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
+| 	    |  | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
+| 	    |  | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
 
 
 
