@@ -9,6 +9,7 @@ title: DS Seminar
 **Teaching Assistant:** Quentin Nater  
 **Level:** Master (5 ECTS), Fall 2026  
 **Location:** Fribourg
+
 ---
 
 
@@ -91,19 +92,19 @@ Papers are distributed on a first-come, first-served basis.
 
 | Presenter     	  		| Date       | Paper  	|
 | --------      	  		| --------   | -------- |
-|  		|  | SAITS: Self-attention-based imputation for time series, ESWA’23 |
-| 	    |  | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
-| 	    |  | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
-|  		|  | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
-| 	    |  | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
-| 	    |  | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
-| 	    |  | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
-| 		|  | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24  |
-| 	    |  | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
-| 	    |  | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 |
-| 	    |  | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
-| 	    |  | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
-| 	    |  | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
+| - 		| - | SAITS: Self-attention-based imputation for time series, ESWA’23 |
+| -	    | - | Missing Value Imputation on Multidimensional Time Series, VLDB’21 |
+| -	    | - | BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition, ICML’24 |
+| - 		| - | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values, ICLR’24 |
+| -	    | - | NuwaTS: a Foundation Model Mending Every Incomplete Time Series, arXiv’24 |
+| -	    | - | Filling the Gaps: Multivariate Time Series Imputation by Graph Neural Networks, ICLR’22  |
+| 	    | - | CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, NeurIPS’21 |
+| -		| - | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD'24  |
+| -	    | - | GP-VAE: Deep probabilistic time series imputation, AISTATS’20 |
+| -	    | - | Networked Time Series Imputation via Position-aware Graph Enhanced VAEs, KDD’23 |
+| -	    | - | Mining of Switching Sparse Networks for Missing Value Imputation, KDD’24 |
+| -	    | - | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
+| -	    | - | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis, ICLR'23 |
 
 
 
