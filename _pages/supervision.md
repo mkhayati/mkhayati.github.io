@@ -64,7 +64,7 @@ nav_order: 7
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Graduate Students</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Graduated Students</h5>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
