@@ -73,16 +73,13 @@ Report deadline for Batch 2: Tue, 24.11.2026
 
 Office meeting with students from Batch 2: *Tue, 01.12.2026 (all day)* — Room C433
 
-Presentations of Batch 2: *Tue, 08.12.2026, 14:15–18:00* — TBA
-
+Presentations of Batch 2: *Tue, 15.12.2026, 14:15–18:00* — Room TBA
 
 **Final Deliverables**
 
 Final Report: *Tue, 12.01.2027*
 
 Code Inspection: *Tue, 19.01.2027 (all day)* — Room C433
-
-
 
 ---
 
