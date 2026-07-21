@@ -149,11 +149,11 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold" style="color: #000000;">Award Committee</h5>
+        <h5 class="font-weight-bold" style="color: #000000;">Best Demo Paper Committee Member</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
-            Best Demo Paper Committee Member
+            Award Committee
         </span>
       </div>
     </div>
