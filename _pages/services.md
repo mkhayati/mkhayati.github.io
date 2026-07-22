@@ -93,11 +93,13 @@ nav_order: 4
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #b509ac; color: #ffffff;">
-            Committee         </span>
+            Committee 
+        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE International Demo track at International Conference on Data Engineering (ICDE) 2026</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Demo track at IEEE International Conference on Data Engineering (ICDE) 2026
+      </li>
     </ul>
   </div>
 </div>
