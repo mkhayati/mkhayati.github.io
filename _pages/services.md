@@ -42,7 +42,7 @@ nav_order: 4
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Very Large Data Bases (VLDB) 2027</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Annual Conference on Artificial Intelligence (AAAI) 2027</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">SIGKDD 2027, 2026, 2025</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2027, 2026, 2025</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International ACM Conference on Knowledge and Information Management (CIKM) 2026</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Web Conference (WWW) 2026</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE International Conference on Big Data (BigData) 2025</li>
