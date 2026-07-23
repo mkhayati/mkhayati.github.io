@@ -47,7 +47,7 @@ nav_order: 4
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Web Conference (WWW) 2026</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE International Conference on Big Data (BigData) 2025</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Big Data Analytics and Knowledge Discovery (DAWAK) 2025</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Web Information Systems Engineering (WISE) 2025, 2024</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Web Information Systems Engineering (WISE) 2026, 2025, 2024</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Symposium on Temporal Representation and Reasoning (TIME) 2023</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Deep Learning, Big Data and Blockchain (Deep-BDB) 2021, 2020</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Big Scientific Data Management (BigSDM) 2018</li>
