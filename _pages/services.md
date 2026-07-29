@@ -88,6 +88,7 @@ nav_order: 4
   </div>
 </div>
 
+  <!--
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
   <div class="p-3">
     <div class="row">
@@ -106,6 +107,7 @@ nav_order: 4
     </ul>
   </div>
 </div>
+  -->
 
 
 <div class="card mt-3" style="background-color: #ffffff; color: #000000;">
