@@ -73,14 +73,14 @@ nav_order: 4
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, 2025, 2024, 2023, 2022, 2017 [26] </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (VLDBJ) 2025, 2024, 2023 [5]</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (SPL) 2025, 2024, 2021 [4]]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (SPL) 2025, 2024, 2021 [4]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (Clus) 2018 [3]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Transactions on Parallel and Distributed Systems (TPDS) 2021, 2019 [2]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Environmental Modelling and Software 2021, 2020 [2]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Nature 2026 [1]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information Systems (ISJ) 2023 [1]</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Dependable and Secure Computing (1)</li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Artificial Intelligence (TDSC) 2025 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Dependable and Secure Computing (TDSC) 2025 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Artificial Intelligence (TAI) 2025 [1]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">PlOS One 2016 [1]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information and Software Technology (INFSOF) 2025 [1]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Journal of Big Data  2026 [1]</li>
