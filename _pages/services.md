@@ -45,6 +45,7 @@ nav_order: 4
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2027, 2026, 2025</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International ACM Conference on Knowledge and Information Management (CIKM) 2026</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Web Conference (WWW) 2026</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM AI Summit (ACM-AI) 2026</li>
       <!--
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE International Conference on Big Data (BigData) 2025</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">International Conference on Big Data Analytics and Knowledge Discovery (DAWAK) 2025</li>
@@ -70,6 +71,23 @@ nav_order: 4
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, 2025, 2024, 2023, 2022, 2017 [26] </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (VLDBJ) 2025, 2024, 2023 [5]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (SPL) 2025, 2024, 2021 [4]]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (Clus) 2018 [3]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Transactions on Parallel and Distributed Systems (TPDS) 2021, 2019 [2]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Environmental Modelling and Software 2021, 2020 [2]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Nature 2026 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information Systems (ISJ) 2023 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Dependable and Secure Computing (1)</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Artificial Intelligence (TDSC) 2025 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">PlOS One 2016 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Information and Software Technology (INFSOF) 2025 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Journal of Big Data  2026 [1]</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">[]: number of reviewed papers</li>
+    </ul>
+    <!--
+    <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (26)*</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (5)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (5)</li>
@@ -85,6 +103,7 @@ nav_order: 4
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Journal of Big Data (1)</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">*(): number of reviewed papers</li>
     </ul>
+      -->
   </div>
 </div>
 
