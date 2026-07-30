@@ -21,7 +21,7 @@ nav_order: 4
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2026, 2025</li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Conference on Knowledge Discovery and Data Mining (SIGKDD) 2027, 2026, 2025</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">ACM Conference on Information and Knowledge Management (CIKM) 2020</li>
     </ul>
   </div>
