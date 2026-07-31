@@ -48,6 +48,9 @@ nav_order: 7
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Antonia Spörk: Benchmarking GNN-based imputation for Neuroscience Sensory Data.
+      </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Flaminia Trinca: Unified Evaluation Metrics for Time Series Imputation.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
