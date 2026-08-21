@@ -52,34 +52,34 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 
 **Kickoff Meeting** 
 
-Organization of the seminar: *Tue, 22.09.2026, 14:15–16:00* — Room TBA
+Organization of the seminar: *Tue, 22.09.2026, 14:15–16:00* — Room D230
 
 **Introduction Seminar Material** 
 
-Library introduction and paper assignment: *Tue, 29.09.2026, 14:15–16:00* — Room TBA
+Library introduction and paper assignment: *Tue, 29.09.2026, 14:15–16:00* — Room D230
 
 **First Presentation Session** 
 
 Report deadline of Batch 1: *Tue, 10.11.2026*
 
-Office meeting with students from Batch 1: *Tue, 17.11.2026 (all day)* — Room C433
+Office meeting with students from Batch 1: *Tue, 17.11.2026* — Room C433
 
-Presentations of Batch 1: *Tue, 24.11.2026, 14:15–18:00* — Room TBA
+Presentations of Batch 1: *Tue, 24.11.2026, 14:15–18:00* — Room D230
 
 
 **Second Presentation Session** 
 
 Report deadline for Batch 2: Tue, 24.11.2026
 
-Office meeting with students from Batch 2: *Tue, 01.12.2026 (all day)* — Room C433
+Office meeting with students from Batch 2: *Tue, 01.12.2026* — Room C433
 
-Presentations of Batch 2: *Tue, 15.12.2026, 14:15–18:00* — Room TBA
+Presentations of Batch 2: *Tue, 15.12.2026, 14:15–18:00* — Room D230
 
 **Final Deliverables**
 
 Final Report: *Tue, 12.01.2027*
 
-Code Inspection: *Tue, 19.01.2027 (all day)* — Room C433
+Code Inspection: *Tue, 19.01.2027* — Room C433
 
 ---
 
