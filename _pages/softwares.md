@@ -24,7 +24,7 @@ nav_order: 3
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PVLDB 2026</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;"> Graphical Toolkit for Model Selection in Time Series Imputation
-        [<a href="https://vldb.org/2026/" style="color: #1a73e8;">PDF</a>, <a href="https://marblue0609.github.io/ImputePilot/" style="color: #1a73e8;">GUI</a>]
+        [<a href="https://www.vldb.org/pvldb/vol19/p4742-chen.pdf" style="color: #1a73e8;">PDF</a>, <a href="https://marblue0609.github.io/ImputePilot/" style="color: #1a73e8;">GUI</a>]
       </li>
     </ul>
   </div>
