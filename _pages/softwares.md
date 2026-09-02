@@ -17,7 +17,7 @@ nav_order: 3
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold text-uppercase align-middle" 
               style="background-color: #b509ac; color: #ffffff;">
-            Python
+            Python/JS
         </span>
       </div>
     </div>
