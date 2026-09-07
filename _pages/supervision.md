@@ -38,8 +38,7 @@ nav_order: 7
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Quentin Nater</a> (
-       2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-advised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Quentin Nater</a> (2025-now): Scalable Data Cleaning Systems for Extreme Large Time Series. Co-advised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
        <a href="https://exascale.info/members/zakhar-tymchenko/" style="color: #1a73e8;">Zakhar Tymchenko</a> (on hold): Holistic Evaluation of Time Series Data Quality. Co-advised with Philippe Cudré-Mauroux.
@@ -49,9 +48,6 @@ nav_order: 7
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Antonia Spörk: Benchmarking GNN-based imputation for Neuroscience Sensory Data.
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-        Flaminia Trinca: Unified Evaluation Metrics for Time Series Imputation.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Maurice Amon: Time Series Imputation using Large Language Models.
@@ -84,6 +80,9 @@ nav_order: 7
     </ul>
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">MSc/BSc</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
+        Flaminia Trinca (2026, MSc): Comprehensive Anaylsis of Evaluation Metrics for Time Series Imputation.
+      </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
         Matej Kutirov (2025, MSc): Automated Model Selection for Time Series Data Generation
       </li>
