@@ -44,7 +44,7 @@ Reproducibility consists of reproducing the same set of experiments introduced i
 * Write the [report](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)
 * Prepare the [presentation](http://www.matt.might.net/articles/academic-presentation-tips/)
 
-> Attendance at both seminar sessions is mandatory. Due to high demand, participation is limited to a maximum of 10 participants. Students interested in joining the seminar must submit a motivation letter outlining their academic background and explaining their reasons for selecting this seminar.
+> Attendance at both seminar sessions is mandatory. Due to high demand, participation is limited to a maximum of 10 participants. Students interested in joining the seminar must submit a motivation letter outlining their academic background and explaining their reasons for selecting this seminar. The letter needs to be sent by September 27 to: mourad.khayati@unifr.ch. 
 
 ---
 
