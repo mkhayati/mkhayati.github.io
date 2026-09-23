@@ -450,7 +450,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-give-a-guest-talk-on-multimodal-pipelines-for-time-series-cleaning-at-the-icde-dsds-workshop-2026-link",
           title: 'I will give a guest talk on “Multimodal Pipelines for Time Series Cleaning”...',
           description: "",
-          section: "News",},{id: "news-i-will-give-an-invited-talk-on-missing-value-imputation-for-time-series-algorithms-benchmarking-and-tools-at-insa-lyon-where-i-will-also-take-part-as-a-guest-in-the-research-opening-day",
+          section: "News",},{id: "news-i-will-give-an-invited-talk-on-missing-value-imputation-for-time-series-algorithms-benchmarking-and-tools-at-insa-lyon",
           title: 'I will give an invited talk on “Missing Value Imputation for Time Series:...',
           description: "",
           section: "News",},{id: "projects-fashionbrain",
