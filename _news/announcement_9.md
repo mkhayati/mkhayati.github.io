@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will give an invited talk on "Missing Value Imputation for Time Series: Algorithms, Benchmarking, and Tools" at INSA Lyon, where I will also take part as a guest in the Research Opening Day.
+I will give an invited talk on "Missing Value Imputation for Time Series: Algorithms, Benchmarking, and Tools" at INSA Lyon.
