@@ -73,7 +73,7 @@ Report deadline for Batch 2: Tue, 24.11.2026
 
 Office meeting with students from Batch 2: *Tue, 01.12.2026* — Room C433
 
-Presentations of Batch 2: *Tue, 15.12.2026, 14:15–18:00* — Room D230
+Presentations of Batch 2: *Tue, 15.12.2026, 14:15–18:00* — Room  E040
 
 **Final Deliverables**
 
