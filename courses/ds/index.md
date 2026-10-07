@@ -90,7 +90,7 @@ Papers are distributed on a first-come, first-served basis.
 
 | Presenter          | Date       | Paper |
 |====================|============|=======|
-| Milena Kovatsch    | 24.11.2026 | Naomi: Non-autoregressive multiresolution sequence imputation, NeurIPS 2019 |
+| Milena Kovatsch    | 24.11.2026 | Naomi: Non-autoregressive Multiresolution Sequence Imputation, NeurIPS 2019 |
 |--------------------|------------|-------|
 | Zejun Yan          | 24.11.2026 | Multivariate Time Series Imputation With Transformers, SPL 2022 |
 |--------------------|------------|-------|
@@ -104,7 +104,7 @@ Papers are distributed on a first-come, first-served basis.
 |--------------------|------------|-------|
 | Matin Mahmoudzadeh | 15.12.2026 | Multivariate Time-series Imputation with Disentangled Temporal Representations, ICLR 2023 |
 |--------------------|------------|-------|
-| Eva Bauer          | 15.12.2026 | Gp-vae: Deep probabilistic time series imputation, AISTATS 2020 |
+| Eva Bauer          | 15.12.2026 | Gp-vae: Deep Probabilistic Time Series Imputation, AISTATS 2020 |
 |--------------------|------------|-------|
 | Kacper Jozwiak     | 15.12.2026 | Generative Semi-supervised Learning for Multivariate Time Series Imputation, AAAI 2021 |
 |--------------------|------------|-------|
