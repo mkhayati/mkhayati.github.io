@@ -87,31 +87,30 @@ Code Inspection: *Tue, 19.01.2027* — Room C433
 
 Papers are distributed on a first-come, first-served basis.
 
+<style>
+  .paper-table table { border-collapse: collapse; width: 100%; }
+  .paper-table th, .paper-table td { border: 1px solid #ccc; padding: 6px 10px; }
+  .paper-table thead th { border-bottom: 2px solid #555; }
+  /* thicker line between Batch 1 and Batch 2 */
+  .paper-table tbody tr:nth-child(5) td { border-bottom: 3px solid #555; }
+</style>
 
-| Presenter          | Date       | Paper |
-|====================|============|=======|
-| Milena Kovatsch    | 24.11.2026 | Naomi: Non-autoregressive Multiresolution Sequence Imputation, NeurIPS 2019 |
-|--------------------|------------|-------|
-| Zejun Yan          | 24.11.2026 | Multivariate Time Series Imputation With Transformers, SPL 2022 |
-|--------------------|------------|-------|
-| Maria Larsen       | 24.11.2026 | ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data, IJCAI 2025 |
-|--------------------|------------|-------|
-| Vincent Adam       | 24.11.2026 | Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion, IJCAI 2025 |
-|--------------------|------------|-------|
-| Louis Gérard       | 24.11.2026 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, TMLR 2023 |
-|--------------------|------------|-------|
-| Silvan Spiess      | 15.12.2026 | Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios, AAAI 2025 |
-|--------------------|------------|-------|
-| Matin Mahmoudzadeh | 15.12.2026 | Multivariate Time-series Imputation with Disentangled Temporal Representations, ICLR 2023 |
-|--------------------|------------|-------|
-| Eva Bauer          | 15.12.2026 | Gp-vae: Deep Probabilistic Time Series Imputation, AISTATS 2020 |
-|--------------------|------------|-------|
-| Kacper Jozwiak     | 15.12.2026 | Generative Semi-supervised Learning for Multivariate Time Series Imputation, AAAI 2021 |
-|--------------------|------------|-------|
-| Yen Hoang Nguyen   | 15.12.2026 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD 2024 |
-|--------------------|------------|-------|
-| Willi Urban        | 15.12.2026 | Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling, TMLR 2026 |
-|--------------------|------------|-------|
+<div class="paper-table" markdown="1">
+
+
+| Presenter     	  		| Date       | Paper  	|
+| --------      	  		| --------   | -------- |
+| Milena Kovatsch 	| 24.11.2026 | Naomi: Non-autoregressive multiresolution sequence imputation, NeurIPS 2019 |
+| Zejun Yan 	| 24.11.2026 | Multivariate Time Series Imputation With Transformers, SPL 2022 |
+| Maria Larsen 	| 24.11.2026 | ImputeINR: Time Series Imputation via Implicit Neural Representations for Disease Diagnosis with Missing Data, IJCAI 2025 |
+| Vincent Adam 	| 24.11.2026 | Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion, IJCAI 2025 |
+| Louis Gérard 	| 24.11.2026 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, TMLR 2023 |
+| Silvan Spiess 	| 15.12.2026 | Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios, AAAI 2025 |
+| Matin Mahmoudzadeh 	| 15.12.2026 | Multivariate Time-series Imputation with Disentangled Temporal Representations, ICLR 2023 |
+| Eva Bauer 	| 15.12.2026 | Gp-vae: Deep probabilistic time series imputation, AISTATS 2020 |
+| Kacper Jozwiak 	| 15.12.2026 | Generative Semi-supervised Learning for Multivariate Time Series Imputation, AAAI 2021 |
+| Yen Hoang Nguyen 	| 15.12.2026 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD 2024 |
+| Willi Urban 	| 15.12.2026 | Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling, TMLR 2026 |
 
 
 
