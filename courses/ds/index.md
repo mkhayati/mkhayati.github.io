@@ -106,7 +106,6 @@ Papers are distributed on a first-come, first-served basis.
 | Vincent Adam 	| 24.11.2026 | Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion, IJCAI 2025 |
 | Louis Gérard 	| 24.11.2026 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models, TMLR 2023 |
 | Silvan Spiess 	| 15.12.2026 | Self-attention-based Diffusion Model for Time-series Imputation in Partial Blackout Scenarios, AAAI 2025 |
-| Matin Mahmoudzadeh 	| 15.12.2026 | Multivariate Time-series Imputation with Disentangled Temporal Representations, ICLR 2023 |
 | Eva Bauer 	| 15.12.2026 | Gp-vae: Deep probabilistic time series imputation, AISTATS 2020 |
 | Kacper Jozwiak 	| 15.12.2026 | Generative Semi-supervised Learning for Multivariate Time Series Imputation, AAAI 2021 |
 | Yen Hoang Nguyen 	| 15.12.2026 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD 2024 |
