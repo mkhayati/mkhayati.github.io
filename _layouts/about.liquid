@@ -64,44 +64,14 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-     <!-- Social -->
+    <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">
-          {% include social.liquid %}
-          <span class="visitor-map-icon" title="Visitors">
-            <span class="visitor-map-inner">
-              <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=Ga0YlgV3L2K91J0X3YFhR5dhySDpOz64PzOItB6LooE&cl=ffffff&w=300&t=n"></script>
-            </span>
-          </span>
-        </div>
+        <div class="contact-icons">{% include social.liquid %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
-
-      <style>
-        /* visible box: same height as the social icons (4rem) */
-        .visitor-map-icon {
-          display: inline-block;
-          width: 8.2rem;
-          height: 4rem;
-          overflow: hidden;
-          vertical-align: middle;
-          margin-left: 0.5rem;
-          border-radius: 4px;
-        }
-        /* draw the map at its normal 300px size, then shrink it */
-        .visitor-map-inner {
-          display: block;
-          width: 300px;
-          font-size: 12px;
-          line-height: normal;
-          transform: scale(0.435);
-          transform-origin: top left;
-        }
-      </style>
     {% endif %}
-
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
