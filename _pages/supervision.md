@@ -69,7 +69,7 @@ nav_order: 7
     <h6 class="font-italic mt-2 mt-sm-0" style="color: #333333;">PhD</h6>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
-       <a href="https://exascale.info/members/quentin-nater/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-advised with Philippe Cudré-Mauroux.
+       <a href="https://exascale.info/members/abdelouahab-khelifati/" style="color: #1a73e8;">Abdelouahab Khelifati</a> (2025): A Holistic Approach for Time Series Management: Unifying Data Storage and Data Processing. Co-advised with Philippe Cudré-Mauroux.
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">
        <a href="https://exascale.info/members/ines-arous/" style="color: #1a73e8;">Ines Arous</a> (2022):  Human-AI Collaborative Approaches for Open-Ended Data Curation. <span class="font-weight-bold" style="color: #000000;">Dimitris N. Chorafas Award for Best Thesis in Computer Science</span>. Co-advised with Philippe Cudré-Mauroux and Jie Yang.
