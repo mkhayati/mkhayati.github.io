@@ -24,10 +24,9 @@ Imputation offers benefits on two levels. At the data processing level, the comp
 
 ## A note of using AI
 
-Please read this[note](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html) before taking the class.
+A large portion of the coursework here is reading papers, and we usually ask you to write a summary with positive and negative points, etc. The goal is for you to struggle through the paper despite not knowing all the background or notation (and possibly mistakes in the paper), perhaps go back to portions of it you didn’t understand, think critically about the arguments, etc. If you outsource this to AI, you won’t learn how to do this effectively [more...](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
 
 ---
-
 
 ## Structure
 
