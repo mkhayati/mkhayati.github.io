@@ -21,13 +21,6 @@ Imputation offers benefits on two levels. At the data processing level, the comp
 
 ---
 
-
-## A note of using AI
-
-A large portion of the coursework here is reading papers, and we usually ask you to write a summary with positive and negative points, etc. The goal is for you to struggle through the paper despite not knowing all the background or notation (and possibly mistakes in the paper), perhaps go back to portions of it you didn’t understand, think critically about the arguments, etc. If you outsource this to AI, you won’t learn how to do this effectively [more...](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
-
----
-
 ## Structure
 
 The goal for the students is to learn how to critically read and study a research paper, describe it in a report, and present it in front of an audience. Under supervision, students will select one paper to study and compare it with related work. This seminar aims to help students gather in-depth knowledge of an advanced topic and develop the skills required to describe a complex problem from the time series field in the form of both a presentation and a written report.
