@@ -18,9 +18,7 @@ nav_order: 7
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Implementing Data Repair Primitives in Vector Databases
       </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Extending ImputeGAP Library with Deep Learning Techniques
-      </li>
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Integrating AutoML Model Selection into ImputeGAP
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Extending ImputeGAP with AutoML Model Selection
       </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Early Detection of Diseases using Multimodal Federated Learning
       </li>
