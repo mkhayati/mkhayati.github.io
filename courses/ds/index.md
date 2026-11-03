@@ -12,19 +12,24 @@ title: DS Seminar
 
 ---
 
-
 ## Overview
 
 The data science seminar involves presentations covering recent topics in data science. The area of this year’s seminar is **time series imputation**. As part of the seminar, we will study research papers that propose algorithms for imputing missing values. These papers present methods for reconstructing incomplete sensor data by applying various replacement strategies to estimate missing segments.
 
 Imputation offers benefits on two levels. At the data processing level, the completed time series can be adequately utilized in a wide range of Machine Learning (ML) tasks, such as classification and forecasting. At the data management level, properly imputed time series can be more effectively stored and maintained, one reason why many Time Series Database Systems (TSDBs) have begun to incorporate native support for missing value imputation.
 
-
 ---
 
 ## Relying on AI Summaries
 
-Reading research papers is a core part of this seminar, and the central task is to summarize a paper and assess its strengths and weaknesses. The summary itself is not the point. What matters is the process of getting there: working through unfamiliar notation and missing background, rereading the sections that did not make sense the first time, spotting possible errors, and weighing whether the paper's arguments actually hold up. If you outsource tis task to AI, you lose forming your own research judgments and having them challenged. You may end up with a decent summary, but you will not have learned to read critically or to judge research for yourself [more](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
+
+At the core of this seminar is a simple task: read a research paper, summarize it, and assess its strengths and weaknesses. The summary, however, is only the end product. The real work, and the real learning, happens along the way: making sense of unfamiliar notation and missing background, rereading sections that did not click the first time, spotting possible errors, and asking whether the paper’s arguments actually hold up.
+
+This is why we ask you not to outsource the task to AI. You might still end up with a decent summary, but you would skip the part that matters: forming your own judgments about research and having them challenged in discussion. That is how you learn to read critically and evaluate research on your own.
+
+For a fuller discussion of why care is needed when using AI in seminars like ours, see this [memo](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
+
+
 
 
 ---
