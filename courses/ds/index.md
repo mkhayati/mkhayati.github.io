@@ -5,7 +5,7 @@ title: DS Seminar
 
 # Data Science Seminar: Time Series Imputation
 
-**Lecturer:** [Mourad Khayati](https://mkhayati.github.io)  
+**Lecturer:** [Dr. Mourad Khayati](https://mkhayati.github.io)  
 **Teaching Assistant:** Quentin Nater  
 **Level:** Master (5 ECTS), Fall 2026  
 **Location:** Fribourg
