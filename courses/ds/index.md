@@ -19,6 +19,14 @@ The data science seminar involves presentations covering recent topics in data s
 
 Imputation offers benefits on two levels. At the data processing level, the completed time series can be adequately utilized in a wide range of Machine Learning (ML) tasks, such as classification and forecasting. At the data management level, properly imputed time series can be more effectively stored and maintained, one reason why many Time Series Database Systems (TSDBs) have begun to incorporate native support for missing value imputation.
 
+
+---
+
+## Relying on AI Summaries
+
+Reading research papers is a core part of this seminar, and the central task is to summarize a paper and assess its strengths and weaknesses. The summary itself is not the point. What matters is the process of getting there: working through unfamiliar notation and missing background, rereading the sections that did not make sense the first time, spotting possible errors, and weighing whether the paper's arguments actually hold up. If you outsource tis task to AI, you lose forming your own research judgments and having them challenged. You may end up with a decent summary, but you will not have learned to read critically or to judge research for yourself [more](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
+
+
 ---
 
 ## Structure
