@@ -14,19 +14,9 @@ title: DS Seminar
 
 ## Overview
 
-The data science seminar involves presentations covering recent topics in data science. The area of this year’s seminar is **time series imputation**. As part of the seminar, we will study research papers that propose algorithms for imputing missing values. These papers present methods for reconstructing incomplete sensor data by applying various replacement strategies to estimate missing segments.
+The Data Science seminar consists of presentations on recent research topics in data science. This year’s seminar focuses on time series imputation, i.e., the problem of reconstructing missing values in sensor data. Participants will study research papers that propose imputation algorithms for incomplete time serie data, where missing values typically occur as contiguous blocks caused by sensor failures, transmission errors, or irregular sampling. The algorithms covered span several families: statistical methods (e.g., interpolation and regression-based techniques), matrix completion and low-rank decomposition methods, pattern-based search, and deep learning models (e.g., recurrent, generative, and attention-based architectures). These techniques reconstruct missing segments by exploiting the temporal dependencies within a series and the correlations across series.
 
-Imputation offers benefits on two levels. At the data processing level, the completed time series can be adequately utilized in a wide range of Machine Learning (ML) tasks, such as classification and forecasting. At the data management level, properly imputed time series can be more effectively stored and maintained, one reason why many Time Series Database Systems (TSDBs) have begun to incorporate native support for missing value imputation.
-
----
-
-## Relying on AI Summaries
-
-
-At the core of this seminar is a simple task: read a research paper, summarize it, and assess its strengths and weaknesses. The summary, however, is not only outcome. The real challenge and learning happen along the way: making sense of unfamiliar notation and missing background, rereading sections that did not click the first time, spotting possible errors, and asking whether the paper’s arguments actually hold up. This is why it is highly recommended to not to outsource the task to AI. You might still end up with a decent summary, but you would skip the part that matters: forming your own judgments about research and having them challenged in discussion. That is how you learn to read critically and evaluate research on your own.
-
-For a deeper discussion of why you need to be careful when using AI in seminars like ours, please read this [memo](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
-
+Imputation matters at two levels. At the data processing level, it produces complete time series that downstream Machine Learning (ML) tasks such as classification and forecasting require as input, since most models cannot handle missing values natively and naive strategies like deletion or mean substitution introduce bias and distort temporal structure. At the data management level, accurately imputed time series support more efficient storage, compression, indexing, and query processing. For this reason, a growing number of Time Series Database Systems (TSDBs) provide built-in operators for gap filling and missing value imputation.
 
 ---
 
@@ -35,6 +25,15 @@ For a deeper discussion of why you need to be careful when using AI in seminars 
 The goal for the students is to learn how to critically read and study a research paper, describe it in a report, and present it in front of an audience. Under supervision, students will select one paper to study and compare it with related work. This seminar aims to help students gather in-depth knowledge of an advanced topic and develop the skills required to describe a complex problem from the time series field in the form of both a presentation and a written report.
 
 Students will also learn how to integrate an algorithm into a library, benchmark it against other algorithms, and perform the required unit tests. For this purpose, we will use [ImputeGAP](https://imputegap.readthedocs.io), a comprehensive library designed for time series imputation analysis.
+
+---
+
+## Relying on AI Summaries
+
+One of the core tasks of this seminar is describing a research paper in a report: students are asked to read a research paper, summarize it, and assess its strengths and weaknesses. The summary, however, is not the main outcome. The real challenge and learning happen along the way: making sense of unfamiliar notation and missing background, rereading sections that did not click the first time, spotting possible errors, and asking whether the paper’s arguments actually hold up. This is why it is highly recommended to not to outsource the task to AI. You might still end up with a decent summary, but you would skip the part that matters: forming your own judgments about research and having them challenged in discussion. That is how you learn to read critically and evaluate research on your own.
+
+For a deeper discussion of why you need to be careful when using AI in seminars like ours, please read this [memo](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
+
 
 ---
 
