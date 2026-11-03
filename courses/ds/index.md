@@ -23,9 +23,7 @@ Imputation offers benefits on two levels. At the data processing level, the comp
 ## Relying on AI Summaries
 
 
-At the core of this seminar is a simple task: read a research paper, summarize it, and assess its strengths and weaknesses. The summary, however, is only the end product. The real work, and the real learning, happens along the way: making sense of unfamiliar notation and missing background, rereading sections that did not click the first time, spotting possible errors, and asking whether the paper’s arguments actually hold up.
-
-This is why we ask you not to outsource the task to AI. You might still end up with a decent summary, but you would skip the part that matters: forming your own judgments about research and having them challenged in discussion. That is how you learn to read critically and evaluate research on your own.
+At the core of this seminar is a simple task: read a research paper, summarize it, and assess its strengths and weaknesses. The summary, however, is not only outcome. The real challenge and learning happen along the way: making sense of unfamiliar notation and missing background, rereading sections that did not click the first time, spotting possible errors, and asking whether the paper’s arguments actually hold up. This is why it is highly recommended to not to outsource the task to AI. You might still end up with a decent summary, but you would skip the part that matters: forming your own judgments about research and having them challenged in discussion. That is how you learn to read critically and evaluate research on your own.
 
 For a fuller discussion of why care is needed when using AI in seminars like ours, see this [memo](https://amolvdeshpande.github.io/cmsc724-fall2026/note_on_ai_use.html).
 
