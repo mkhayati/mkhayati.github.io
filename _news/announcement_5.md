@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as Area Chair for KDD 2026 (Cycle 1 & 2). 
+I will be serving as Area Chair for KDD 2027 (Cycle 1 & 2). 
