@@ -14,7 +14,7 @@ title: DS Seminar
 
 ## Overview
 
-The Data Science seminar consists of presentations on recent research topics in data science. This year’s seminar focuses on time series imputation, i.e., the problem of reconstructing missing values in sensor data. Participants will study research papers that propose imputation algorithms for incomplete time serie data, where missing values typically occur as contiguous blocks caused by sensor failures, transmission errors, or irregular sampling. The algorithms covered span several families: statistical methods (e.g., interpolation and regression-based techniques), matrix completion and low-rank decomposition methods, pattern-based search, and deep learning models (e.g., recurrent, generative, and attention-based architectures). These techniques reconstruct missing segments by exploiting the temporal dependencies within a series and the correlations across series.
+The Data Science seminar consists of presentations on recent research topics in data science. This year’s seminar focuses on time series imputation, i.e., the problem of reconstructing missing values in sensor data. Participants will study research papers that propose imputation algorithms for incomplete time serie data, where missing values typically occur as contiguous blocks caused by sensor failures, transmission errors, or irregular sampling. The algorithms covered span several families: matrix completion and low-rank decomposition methods, pattern-based search, deep learning models (e.g., recurrent, generative, diffusion-based, etc.), Graph Neural Networks (GNNs), and Large Language Models. These techniques reconstruct missing segments by exploiting the temporal dependencies within a series and the correlations across series.
 
 Imputation matters at two levels. At the data processing level, it produces complete time series that downstream Machine Learning (ML) tasks such as classification and forecasting require as input, since most models cannot handle missing values natively and naive strategies like deletion or mean substitution introduce bias and distort temporal structure. At the data management level, accurately imputed time series support more efficient storage, compression, indexing, and query processing. For this reason, a growing number of Time Series Database Systems (TSDBs) provide built-in operators for gap filling and missing value imputation.
 
@@ -47,7 +47,7 @@ The final grade depends on the quality of the report, presentation, integration 
 
 Reproducibility consists of reproducing the same set of experiments introduced in the paper using a different setup (dataset, metric, parameters, etc.).
 
-**Advice on how to:**
+**Advices on how to:**
 
 * Write the [report](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)
 * Prepare the [presentation](http://www.matt.might.net/articles/academic-presentation-tips/)
