@@ -72,7 +72,7 @@ nav_order: 4
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush" style="color: #000000;">
-      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, 2025, 2024, 2023, 2022, 2017 [26] </li>
+      <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, 2025, 2024, 2023, 2022, 2017 [27] </li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">The VLDB Journal (VLDBJ) 2025, 2024, 2023 [5]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">IEEE Signal Processing Letters (SPL) 2025, 2024, 2021 [4]</li>
       <li class="list-group-item" style="background-color: #f8f9fa; color: #000000;">Cluster Computing (Clus) 2018 [3]</li>
