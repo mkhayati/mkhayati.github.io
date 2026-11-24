@@ -117,7 +117,7 @@ Papers are distributed on a first-come, first-served basis.
 | Eva Bauer 	| 15.12.2026 | Gp-vae: Deep probabilistic time series imputation, AISTATS 2020 |
 | Kacper Jozwiak 	| 15.12.2026 | Generative Semi-supervised Learning for Multivariate Time Series Imputation, AAAI 2021 |
 | Yen Hoang Nguyen 	| 15.12.2026 | ReCTSi: Resource-efficient Correlated Time Series Imputation via Decoupled Pattern Learning and Completeness-aware Attentions, KDD 2024 |
-| Willi Urban 	| 15.12.2026 | Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling, TMLR 2026 |
+| ~~Willi Urban~~ | ~~15.12.2026~~ | ~~Investigating a Model-Agnostic and Imputation-Free Approach for Irregularly-Sampled Multivariate Time-Series Modeling, TMLR 2026~~ |
 
 
 </div>
